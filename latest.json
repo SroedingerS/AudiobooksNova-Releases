@@ -1,0 +1,14 @@
+{
+  "tag_name": "v2.9.2g",
+  "name": "Аудиокниги Nova 2.9.2g",
+  "body": "1. Проверка обновлений больше не зависит от лимита GitHub API для общих IP мобильных операторов, провайдеров и VPN.\n2. Nova автоматически переключается на запасной адрес проверки.\n3. Технический код HTTP 403 заменён понятным сообщением.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2g",
+  "assets": [
+    {
+      "name": "AudiobooksNova-2.9.2g.apk",
+      "size": 51692315,
+      "digest": "sha256:e9a25577fa864401b31052ecdb232fc9c74d532b4b9869f0b47bafe0c939a1ed",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2g/AudiobooksNova-2.9.2g.apk"
+    }
+  ]
+}
