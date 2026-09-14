@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.2r",
-  "name": "Аудиокниги Nova 2.9.2r",
-  "body": "1. В загрузках восстановлено отображение общей длительности книги.\n2. Время теперь указано отдельно у каждой скачанной главы.\n3. Старые загрузки восстанавливают длительность непосредственно из локальных аудиофайлов.\n4. Новые загрузки сразу сохраняют фактическую длительность, если сервер её не передал.\n5. Сумма цикла рассчитывается по полным длительностям книг.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2r",
+  "tag_name": "v2.9.2s",
+  "name": "Аудиокниги Nova 2.9.2s",
+  "body": "1. Для Android TV добавлены два варианта плеера: «Сцена с обложкой» и «Классическая библиотека».\n2. Оба варианта повторяют утверждённые макеты и масштабируются для 720p, 1080p и 4K.\n3. Выбор дизайна сохраняется в настройках и переносится вместе с ними.\n4. Все действия плеера доступны с пульта, включая длительное нажатие таймера.\n5. Полноразмерный фон оптимизирован; прирост APK относительно 2.9.2r — менее 0,5%.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2s",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.2r.apk",
-      "size": 51823499,
-      "digest": "sha256:f391a9822d21ba6d2fcb3c13ca19f6877ea0efcc5b0df74b7a3fee79d4773dbf",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2r/AudiobooksNova-2.9.2r.apk"
+      "name": "AudiobooksNova-2.9.2s.apk",
+      "size": 52077507,
+      "digest": "sha256:fcbb48509e4aa3b2277d200a02f90c43bed19cd699ca8557ec63c9fbf4ee7235",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2s/AudiobooksNova-2.9.2s.apk"
     }
   ]
 }
