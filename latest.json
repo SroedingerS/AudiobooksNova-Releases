@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.2s",
-  "name": "Аудиокниги Nova 2.9.2s",
-  "body": "1. Для Android TV добавлены два варианта плеера: «Сцена с обложкой» и «Классическая библиотека».\n2. Оба варианта повторяют утверждённые макеты и масштабируются для 720p, 1080p и 4K.\n3. Выбор дизайна сохраняется в настройках и переносится вместе с ними.\n4. Все действия плеера доступны с пульта, включая длительное нажатие таймера.\n5. Полноразмерный фон оптимизирован; прирост APK относительно 2.9.2r — менее 0,5%.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2s",
+  "tag_name": "v2.9.2t",
+  "name": "Аудиокниги Nova 2.9.2t",
+  "body": "1. Оба варианта плеера Android TV теперь используют выбранную пользователем цветовую палитру Nova.\n2. Палитра применяется к кнопкам, прогрессу, рамкам, панелям и подсветке фокуса.\n3. Высокий альбомный плеер также больше не подменяет выбранный цвет фиксированным золотым.\n4. Геометрия макетов и управление с пульта сохранены без изменений.\n5. Размер APK относительно 2.9.2s не увеличился.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2t",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.2s.apk",
+      "name": "AudiobooksNova-2.9.2t.apk",
       "size": 52077507,
-      "digest": "sha256:fcbb48509e4aa3b2277d200a02f90c43bed19cd699ca8557ec63c9fbf4ee7235",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2s/AudiobooksNova-2.9.2s.apk"
+      "digest": "sha256:20741701508e27059d933d8b7bbcc3297a89fd33430b8141f5339ae6ae6d1e50",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2t/AudiobooksNova-2.9.2t.apk"
     }
   ]
 }
