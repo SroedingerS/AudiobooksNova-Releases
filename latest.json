@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.2q",
-  "name": "Аудиокниги Nova 2.9.2q",
-  "body": "1. В телефонные двухколоночные карточки возвращена строка «Описание».\n2. Нажатие открывает полный текст в отдельном прокручиваемом окне.\n3. Строка выровнена между соседними карточками, если описание есть хотя бы у одной книги.\n4. Если описания нет у обеих книг, пустое место не резервируется.\n5. Исправленное отображение исходных обложек из 2.9.2p сохранено.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2q",
+  "tag_name": "v2.9.2r",
+  "name": "Аудиокниги Nova 2.9.2r",
+  "body": "1. В загрузках восстановлено отображение общей длительности книги.\n2. Время теперь указано отдельно у каждой скачанной главы.\n3. Старые загрузки восстанавливают длительность непосредственно из локальных аудиофайлов.\n4. Новые загрузки сразу сохраняют фактическую длительность, если сервер её не передал.\n5. Сумма цикла рассчитывается по полным длительностям книг.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2r",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.2q.apk",
-      "size": 51823499,
-      "digest": "sha256:cc3df1cf8f0d22bec4fac99a218af6eafb29f66473f899edbb0e985ebf98227b",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2q/AudiobooksNova-2.9.2q.apk"
+      "name": "AudiobooksNova-2.9.2r.apk",
+      "size": 51746309,
+      "digest": "sha256:f391a9822d21ba6d2fcb3c13ca19f6877ea0efcc5b0df74b7a3fee79d4773dbf",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2r/AudiobooksNova-2.9.2r.apk"
     }
   ]
 }
