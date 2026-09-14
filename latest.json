@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.2k",
-  "name": "Аудиокниги Nova 2.9.2k",
-  "body": "1. Интерфейс телефона, планшета и телевизора адаптируется к размеру окна автоматически.\n2. Телефонная альбомная библиотека получила вертикальную сетку книг по выбранному макету.\n3. Текущая книга центрируется в карусели.\n4. Портретные обложки двухкарточного вида показываются целиком.\n5. Карточки и элементы планшета учитывают увеличенный шрифт.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2k",
+  "tag_name": "v2.9.2l",
+  "name": "Аудиокниги Nova 2.9.2l",
+  "body": "1. Карточки библиотеки выровнены и адаптированы к размеру текста.\n2. Автор и чтец остаются на одной строке.\n3. Обложки разных пропорций показываются целиком.\n4. В альбомной библиотеке восстановлена навигация и добавлена компактная панель разделов.\n5. В книжной библиотеке разделы закрепляются без преждевременного возврата карусели.\n6. Состояния «Буду читать» и «Избранное» сохраняются и подсвечиваются.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2l",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.2k.apk",
-      "size": 51807003,
-      "digest": "sha256:f989489bd26a12f503fe9ce2266fac18edbb69133d4e8097d5e996edbf2d1b56",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2k/AudiobooksNova-2.9.2k.apk"
+      "name": "AudiobooksNova-2.9.2l.apk",
+      "size": 51807059,
+      "digest": "sha256:4bccee4cc4ac355eded4d2a55d2c5fbafd0ffd2cdd57e26a79951640d02422a4",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2l/AudiobooksNova-2.9.2l.apk"
     }
   ]
 }
