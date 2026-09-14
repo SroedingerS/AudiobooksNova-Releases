@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.2i",
-  "name": "Аудиокниги Nova 2.9.2i",
-  "body": "1. Строка и результаты поиска очищаются при переходе на другую вкладку даже с включённым кэшем.\n2. Библиотека в книжной ориентации получила общую листаемую полку и компактные карточки.\n3. Альбомная библиотека приведена к выбранному макету; верхний блок уменьшен примерно на 25%.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2i",
+  "tag_name": "v2.9.2j",
+  "name": "Аудиокниги Nova 2.9.2j",
+  "body": "1. Библиотека получила адаптивные варианты одной и двух карточек без обрезания крупным шрифтом.\n2. Акцент карусели закреплён за текущей книгой плеера.\n3. Для высоких альбомных экранов добавлен отдельный полноразмерный плеер.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2j",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.2i.apk",
-      "size": 51725083,
-      "digest": "sha256:f92086e51a13c99bc4f0e5fd926e92af9afc66519baa8322166eec3900c8ff1a",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2i/AudiobooksNova-2.9.2i.apk"
+      "name": "AudiobooksNova-2.9.2j.apk",
+      "size": 51757851,
+      "digest": "sha256:ee18b2dd6fa17430fd1eed888e61d32736e63f451af697791f9efce02cc2b416",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2j/AudiobooksNova-2.9.2j.apk"
     }
   ]
 }
