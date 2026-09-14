@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.2p",
-  "name": "Аудиокниги Nova 2.9.2p",
-  "body": "1. Отображение обложек в карточках возвращено к проверенной реализации без адаптивного уменьшения.\n2. Обложка снова заполняет весь предназначенный для неё блок и не становится маленькой по центру.\n3. Используется исходный файл без дополнительного кадрирования и повторного JPEG-сжатия.\n4. Единое поведение восстановлено в каталоге, поиске, библиотеке, карусели и виджете.\n5. Исправления высоты карточек и синхронизации полей из 2.9.2o сохранены.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2p",
+  "tag_name": "v2.9.2q",
+  "name": "Аудиокниги Nova 2.9.2q",
+  "body": "1. В телефонные двухколоночные карточки возвращена строка «Описание».\n2. Нажатие открывает полный текст в отдельном прокручиваемом окне.\n3. Строка выровнена между соседними карточками, если описание есть хотя бы у одной книги.\n4. Если описания нет у обеих книг, пустое место не резервируется.\n5. Исправленное отображение исходных обложек из 2.9.2p сохранено.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2q",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.2p.apk",
+      "name": "AudiobooksNova-2.9.2q.apk",
       "size": 51823499,
-      "digest": "sha256:9cce0466169bb7a231bcde94838bc032ceb2bfb0f9b9da22c888cf35ac94c85a",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2p/AudiobooksNova-2.9.2p.apk"
+      "digest": "sha256:cc3df1cf8f0d22bec4fac99a218af6eafb29f66473f899edbb0e985ebf98227b",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2q/AudiobooksNova-2.9.2q.apk"
     }
   ]
 }
