@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.2x",
-  "name": "Аудиокниги Nova 2.9.2x",
-  "body": "1. В настройках добавлены баннер и отдельная страница «Поддержка проекта» с копированием реквизитов и переходом в ЮMoney.\n2. Телевизионные страницы получили единую верхнюю навигацию с управлением пультом.\n3. Телефонный каталог получил компактные переключатели разделов без перехода на отдельные страницы.\n4. Исправлены сворачивание панели каталога, возврат к домашнему списку и лишние пустые поля в парных карточках.\n5. Новые элементы учитывают выбранную палитру и все размеры шрифта; тяжёлые изображения в APK не добавлялись.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2x",
+  "tag_name": "v2.9.2y",
+  "name": "Аудиокниги Nova 2.9.2y",
+  "body": "1. Страница «Поддержка проекта» и баннер в настройках переработаны по макетам; копирование номера или ссылки подтверждается на экране.\n2. После просмотра книги каталог возвращается к прежней позиции.\n3. Сворачиваемая панель каталога больше не остаётся наполовину обрезанной.\n4. Портретный плеер использует всю высоту экрана без большой пустой области, включая Galaxy Z Flip7.\n5. Системные сообщения соответствуют светлой и тёмной теме; добавлена проверка компоновки для Android 16/17 и складных экранов.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2y",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.2x.apk",
-      "size": 52241347,
-      "digest": "sha256:df944740fea8bd673796bd60cb6d4e686c64930023c6dec2503cad0cbdd7195c",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2x/AudiobooksNova-2.9.2x.apk"
+      "name": "AudiobooksNova-2.9.2y.apk",
+      "size": 52299665,
+      "digest": "sha256:291adfef91e1981a79d94287041e434ade6216bbdd33e7c93819a10b6d540ad3",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2y/AudiobooksNova-2.9.2y.apk"
     }
   ]
 }
