@@ -12,7 +12,7 @@
 
 Откройте раздел **Releases** и выберите последний файл `AudiobooksNova-*.apk`. Для обновления поверх установленной Nova цифровая подпись APK должна совпадать.
 
-Актуальная версия: **2.9.2v**. Библиотека, каталог и поиск на Android TV получили отдельный дизайн по новым макетам, адаптацию к палитре и всем размерам шрифта без тяжёлых графических ресурсов. [Описание изменений](RELEASE-2.9.2v.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2v/AudiobooksNova-2.9.2v.apk).
+Актуальная версия: **2.9.2w**. Исправлены старые HTTP-ссылки AudioBoo и ошибка 403 при воспроизведении и скачивании книг Audio-Lib с Яндекс-диска. [Описание изменений](RELEASE-2.9.2w.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2w/AudiobooksNova-2.9.2w.apk).
 
 Минимальная версия: Android 6.0 (API 23). Поддерживаются телефоны, планшеты и Android TV, книжная и альбомная ориентации.
 

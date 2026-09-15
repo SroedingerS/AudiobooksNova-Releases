@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.2v",
-  "name": "Аудиокниги Nova 2.9.2v",
-  "body": "1. Библиотека Android TV перенесена на новый дизайн с книжной полкой, боковыми разделами и подробной панелью выбранной книги.\n2. Каталог Android TV получил четыре быстрых раздела, жанровые настройки и трёхколоночные карточки по новому макету.\n3. Поиск Android TV получил отдельную левую панель режимов, верхнюю строку действий, трёхколоночные результаты и общую с каталогом навигационную панель.\n4. Все новые ТВ-страницы используют выбранную цветовую палитру и корректно работают с маленьким, обычным, большим, очень большим и системным размером шрифта.\n5. Нестандартные обложки показываются целиком; новые изображения и библиотеки не добавлялись.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2v",
+  "tag_name": "v2.9.2w",
+  "name": "Аудиокниги Nova 2.9.2w",
+  "body": "1. Исправлено воспроизведение AudioBoo со старыми ссылками Archive.org: поддерживаемые адреса автоматически переводятся на HTTPS.\n2. Сохранённые книги, очередь, восстановленное состояние плеера и загрузки исправляются без очистки данных.\n3. Исправлена ошибка 403 при воспроизведении и скачивании глав Audio-Lib через Яндекс-диск.\n4. Проверены все главы проблемных книг, перемотка, восстановление позиции и загрузка диапазона аудиоданных.\n5. Правила запросов остальных источников сохранены.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2w",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.2v.apk",
-      "size": 52192195,
-      "digest": "sha256:ee9b542d4ed7d1742c80a53fce35fc3fd1f8f12bce777d29277ded76200e7cf7",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2v/AudiobooksNova-2.9.2v.apk"
+      "name": "AudiobooksNova-2.9.2w.apk",
+      "size": 52208579,
+      "digest": "sha256:9a4a90cafac9a4343756dedf1b7b8c653a9754d24e93f4d5773978c484b68cb7",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2w/AudiobooksNova-2.9.2w.apk"
     }
   ]
 }
