@@ -12,7 +12,7 @@
 
 Откройте раздел **Releases** и выберите последний файл `AudiobooksNova-*.apk`. Для обновления поверх установленной Nova цифровая подпись APK должна совпадать.
 
-Актуальная версия: **2.9.2y**. Улучшены страница поддержки, возврат к позиции каталога, сворачиваемая панель и адаптация плеера под высокие и складные телефоны. [Описание изменений](RELEASE-2.9.2y.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2y/AudiobooksNova-2.9.2y.apk).
+Актуальная версия: **2.9.2z**. Улучшены значок наушников, индикация таймера сна, подгрузка Audio‑Lib и иллюстрация поддержки. [Описание изменений](RELEASE-2.9.2z.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2z/AudiobooksNova-2.9.2z.apk).
 
 Минимальная версия: Android 6.0 (API 23). Поддерживаются телефоны, планшеты и Android TV, книжная и альбомная ориентации.
 

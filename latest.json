@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.2y",
-  "name": "Аудиокниги Nova 2.9.2y",
-  "body": "1. Страница «Поддержка проекта» и баннер в настройках переработаны по макетам; копирование номера или ссылки подтверждается на экране.\n2. После просмотра книги каталог возвращается к прежней позиции.\n3. Сворачиваемая панель каталога больше не остаётся наполовину обрезанной.\n4. Портретный плеер использует всю высоту экрана без большой пустой области, включая Galaxy Z Flip7.\n5. Системные сообщения соответствуют светлой и тёмной теме; добавлена проверка компоновки для Android 16/17 и складных экранов.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2y",
+  "tag_name": "v2.9.2z",
+  "name": "Аудиокниги Nova 2.9.2z",
+  "body": "1. Значок «Слушаю» теперь выглядит как наушники.\n2. Включённый таймер сна заметно выделяется цветом на телефоне и ТВ.\n3. Исправлена подгрузка следующих страниц Audio‑Lib при выборе жанров.\n4. Иллюстрация книги на странице поддержки отображается без сжатия и занимает меньше места в APK.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2z",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.2y.apk",
-      "size": 52376857,
-      "digest": "sha256:291adfef91e1981a79d94287041e434ade6216bbdd33e7c93819a10b6d540ad3",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2y/AudiobooksNova-2.9.2y.apk"
+      "name": "AudiobooksNova-2.9.2z.apk",
+      "size": 52360473,
+      "digest": "sha256:a7d1bfa808909727ea561dd665de8ad438832d4333b9f7a2237bd00cbfaa1c56",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2z/AudiobooksNova-2.9.2z.apk"
     }
   ]
 }
