@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3b",
-  "name": "Аудиокниги Nova 2.9.3b",
-  "body": "1. Для планшета добавлены варианты каталога и плеера с учётом темы, шрифта и размера экрана.\n2. В библиотеке можно выбрать полку, список или плитку; выбор сохраняется после перезапуска.\n3. Исправлены обрезанные подписи и длительности плеера, расположение кнопок и значков.\n4. Счётчики разделов библиотеки согласованы с показанными книгами; по умолчанию открывается раздел Слушаю.\n5. Улучшены значки настроек и навигация со страницы поддержки проекта.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3b",
+  "tag_name": "v2.9.3c",
+  "name": "Аудиокниги Nova 2.9.3c",
+  "body": "1. Поиск больше не скрывает варианты одной книги с разными чтецами: каждая доступная озвучка показывается отдельно.\n2. Варианты сохраняются в результатах и при подгрузке следующих страниц поиска.\n3. Прогресс прослушивания разных озвучек на одном источнике больше не объединяется из-за совпадения названия и автора.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3c",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3b.apk",
+      "name": "AudiobooksNova-2.9.3c.apk",
       "size": 52442393,
-      "digest": "sha256:83c839b0176456370bdaceb5b838aae3f26ffc117f882030829aa60b6b37f9c0",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3b/AudiobooksNova-2.9.3b.apk"
+      "digest": "sha256:f495aedd0aa0a3b54e33de92779c9ad40b37c9f4a099b725314b3414678ad614",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3c/AudiobooksNova-2.9.3c.apk"
     }
   ]
 }
