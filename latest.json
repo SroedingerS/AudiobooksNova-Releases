@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3c",
-  "name": "Аудиокниги Nova 2.9.3c",
-  "body": "1. Поиск больше не скрывает варианты одной книги с разными чтецами: каждая доступная озвучка показывается отдельно.\n2. Варианты сохраняются в результатах и при подгрузке следующих страниц поиска.\n3. Прогресс прослушивания разных озвучек на одном источнике больше не объединяется из-за совпадения названия и автора.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3c",
+  "tag_name": "v2.9.3d",
+  "name": "Аудиокниги Nova 2.9.3d",
+  "body": "1. Исправлен режим «Точное название»: имя автора перед названием на странице источника больше не скрывает книгу из результатов.\n2. Обычный и точный поиск показывают отдельные озвучки одной книги с разными чтецами.\n3. Поиск по циклу учитывает номер книги, который источник дописывает после названия цикла.\n4. Прогресс прослушивания разных озвучек на одном источнике хранится отдельно.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3d",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3c.apk",
+      "name": "AudiobooksNova-2.9.3d.apk",
       "size": 52442393,
-      "digest": "sha256:f495aedd0aa0a3b54e33de92779c9ad40b37c9f4a099b725314b3414678ad614",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3c/AudiobooksNova-2.9.3c.apk"
+      "digest": "sha256:eb132b7fc22934308db149fd9e42994be8ba6544b8251938e2a203e4aa71c1fa",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3d/AudiobooksNova-2.9.3d.apk"
     }
   ]
 }
