@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.2z",
-  "name": "Аудиокниги Nova 2.9.2z",
-  "body": "1. Значок «Слушаю» теперь выглядит как наушники.\n2. Включённый таймер сна заметно выделяется цветом на телефоне и ТВ.\n3. Исправлена подгрузка следующих страниц Audio‑Lib при выборе жанров.\n4. Иллюстрация книги на странице поддержки отображается без сжатия и занимает меньше места в APK.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.2z",
+  "tag_name": "v2.9.3a",
+  "name": "Аудиокниги Nova 2.9.3a",
+  "body": "1. Альбомный режим планшета получил оформление каталога, поиска, библиотеки и плеера в стиле телевизионной версии.\n2. Точный поиск находит варианты названия с префиксами и номером тома на разных источниках.\n3. Библиотечная полка показывает до четырёх книг; обложки получили скруглённые углы, торец страниц и заднюю крышку.\n4. Долгое нажатие на книгу позволяет скачать или удалить файлы, а меню закладки — открыть, изменить или удалить её.\n5. Исправлены значки каталога, размещение элементов при крупном шрифте и адаптация плеера для планшета и ТВ.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3a",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.2z.apk",
-      "size": 52360473,
-      "digest": "sha256:a7d1bfa808909727ea561dd665de8ad438832d4333b9f7a2237bd00cbfaa1c56",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.2z/AudiobooksNova-2.9.2z.apk"
+      "name": "AudiobooksNova-2.9.3a.apk",
+      "size": 52393241,
+      "digest": "sha256:9dd52754dd97cbe7736f688d6bd3a92e173e3037a37d756cbe19326672d2b227",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3a/AudiobooksNova-2.9.3a.apk"
     }
   ]
 }
