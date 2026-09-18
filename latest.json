@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3e",
-  "name": "Аудиокниги Nova 2.9.3e",
-  "body": "1. Поиск по автору и чтецу на Akniga теперь показывает новые книги на следующих страницах без повторения первой.\n2. На AudioBoo поиск по имени чтеца использует страницу исполнителя, когда обычный поиск источника ничего не находит.\n3. Исправлен переход между страницами поиска AudioBoo.\n4. Отдельно скачанная книга при переносе в цикл занимает свой номер; в плеере сначала показываются доступные офлайн-книги цикла.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3e",
+  "tag_name": "v2.9.3f",
+  "name": "Аудиокниги Nova 2.9.3f",
+  "body": "1. Исправлены пропадавшие книги циклов на Audio-Lib и AudioBoo: разные книги больше не объединяются по совпавшему числу в описании.\n2. Перед скачиванием цикла теперь можно отметить все книги или выбрать только нужные; уже добавленные в загрузки помечены.\n3. В настройках появился переключатель показа всех изданий цикла. По умолчанию видны все книги; выбор для загрузки всегда остаётся полным.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3f",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3e.apk",
+      "name": "AudiobooksNova-2.9.3f.apk",
       "size": 52458777,
-      "digest": "sha256:2dd5556199167434a0bd71243032c198550985d37e2cee364bf20406dd6b25a0",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3e/AudiobooksNova-2.9.3e.apk"
+      "digest": "sha256:b57b27a1ef0be53037d4b823c8361ec0fb555834706b2a0e0109e052def75a64",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3f/AudiobooksNova-2.9.3f.apk"
     }
   ]
 }
