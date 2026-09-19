@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3j",
-  "name": "Аудиокниги Nova 2.9.3j",
-  "body": "1. В меню книги добавлен пункт «Выбрать»: можно отметить несколько книг или весь текущий список и убрать их одним действием.\n2. Пакетное действие изменяет только открытый раздел библиотеки; скачанные главы, другие списки и исходные локальные аудиофайлы сохраняются.\n3. Исправлена очистка истории: она больше не затрагивает «Слушаю», избранное, прогресс и другие разделы.\n4. Множественный выбор работает на телефонах, планшетах и Android TV во всех видах библиотеки.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3j",
+  "tag_name": "v2.9.3k",
+  "name": "Аудиокниги Nova 2.9.3k",
+  "body": "1. Исправлен виджет: во время воспроизведения время и бегунок обновляются без ожидания паузы.\n2. Обновление виджета стало облегчённым: каждую секунду меняются только время и прогресс, без повторной загрузки обложки.\n3. В плеере можно удержать книгу в списке цикла и назначить ей правильное место; остальные книги автоматически сдвигаются.\n4. Пользовательский порядок сохраняется, учитывается при выборе следующей книги и входит в резервную копию и синхронизацию настроек.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3k",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3j.apk",
-      "size": 52491545,
-      "digest": "sha256:9ea4da6bfe1dd44312fa421841588be87cdd260dfc45347e50609869a903fa3b",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3j/AudiobooksNova-2.9.3j.apk"
+      "name": "AudiobooksNova-2.9.3k.apk",
+      "size": 52507929,
+      "digest": "sha256:9c1dd2ac1e80d5062059ed2c1d669b15e88413b45c088000325172f3a03f8119",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3k/AudiobooksNova-2.9.3k.apk"
     }
   ]
 }
