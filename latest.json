@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3g",
-  "name": "Аудиокниги Nova 2.9.3g",
-  "body": "1. В настройках звука появился усилитель тихих записей с регулировкой от 0 до +12 дБ.\n2. Громкость Nova теперь можно связать с системной медиагромкостью: ползунок приложения и аппаратные кнопки работают согласованно.\n3. При включении и отключении связанного режима текущая громкость сохраняется без резкого скачка; устройства с фиксированной громкостью продолжают использовать регулятор Nova.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3g",
+  "tag_name": "v2.9.3h",
+  "name": "Аудиокниги Nova 2.9.3h",
+  "body": "1. Параметры эквалайзера, усиление тихих записей, высота голоса и сокращение тишины теперь слышны сразу во время настройки — до нажатия кнопки «Применить».\n2. Кнопка «Отмена» возвращает ранее сохранённое звучание, а «Применить» сохраняет уже прослушанный вариант.\n3. Исправлено падение библиотеки на Android TV при выборе третьего варианта отображения книг. Ранее сохранённый режим после обновления открывается корректно без очистки данных.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3h",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3g.apk",
+      "name": "AudiobooksNova-2.9.3h.apk",
       "size": 52475161,
-      "digest": "sha256:2b1c09d4fc5a0dc1fe07ea2883e8c623d91c124760cb9dc1d825867191410d7b",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3g/AudiobooksNova-2.9.3g.apk"
+      "digest": "sha256:cd9602b6be2a8a94be5fc7b941fcd70f1fe56001072746d62198272ffd764b34",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3h/AudiobooksNova-2.9.3h.apk"
     }
   ]
 }
