@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3h",
-  "name": "Аудиокниги Nova 2.9.3h",
-  "body": "1. Параметры эквалайзера, усиление тихих записей, высота голоса и сокращение тишины теперь слышны сразу во время настройки — до нажатия кнопки «Применить».\n2. Кнопка «Отмена» возвращает ранее сохранённое звучание, а «Применить» сохраняет уже прослушанный вариант.\n3. Исправлено падение библиотеки на Android TV при выборе третьего варианта отображения книг. Ранее сохранённый режим после обновления открывается корректно без очистки данных.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3h",
+  "tag_name": "v2.9.3i",
+  "name": "Аудиокниги Nova 2.9.3i",
+  "body": "1. Время создания облачных резервных копий теперь отображается в часовом поясе устройства. Исправлено расхождение на три часа для московского времени.\n2. Формат резервных копий не менялся: старые файлы полностью совместимы и восстанавливаются как раньше.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3i",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3h.apk",
+      "name": "AudiobooksNova-2.9.3i.apk",
       "size": 52475161,
-      "digest": "sha256:cd9602b6be2a8a94be5fc7b941fcd70f1fe56001072746d62198272ffd764b34",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3h/AudiobooksNova-2.9.3h.apk"
+      "digest": "sha256:244052657116b42e867ae5129e3c5f852f8f7ce0051835a8f0ca698c89f37ba7",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3i/AudiobooksNova-2.9.3i.apk"
     }
   ]
 }
