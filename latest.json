@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3i",
-  "name": "Аудиокниги Nova 2.9.3i",
-  "body": "1. Время создания облачных резервных копий теперь отображается в часовом поясе устройства. Исправлено расхождение на три часа для московского времени.\n2. Формат резервных копий не менялся: старые файлы полностью совместимы и восстанавливаются как раньше.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3i",
+  "tag_name": "v2.9.3j",
+  "name": "Аудиокниги Nova 2.9.3j",
+  "body": "1. В меню книги добавлен пункт «Выбрать»: можно отметить несколько книг или весь текущий список и убрать их одним действием.\n2. Пакетное действие изменяет только открытый раздел библиотеки; скачанные главы, другие списки и исходные локальные аудиофайлы сохраняются.\n3. Исправлена очистка истории: она больше не затрагивает «Слушаю», избранное, прогресс и другие разделы.\n4. Множественный выбор работает на телефонах, планшетах и Android TV во всех видах библиотеки.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3j",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3i.apk",
-      "size": 52475161,
-      "digest": "sha256:244052657116b42e867ae5129e3c5f852f8f7ce0051835a8f0ca698c89f37ba7",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3i/AudiobooksNova-2.9.3i.apk"
+      "name": "AudiobooksNova-2.9.3j.apk",
+      "size": 52491545,
+      "digest": "sha256:9ea4da6bfe1dd44312fa421841588be87cdd260dfc45347e50609869a903fa3b",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3j/AudiobooksNova-2.9.3j.apk"
     }
   ]
 }
