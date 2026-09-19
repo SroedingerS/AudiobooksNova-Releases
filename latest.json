@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3f",
-  "name": "Аудиокниги Nova 2.9.3f",
-  "body": "1. Исправлены пропадавшие книги циклов на Audio-Lib и AudioBoo: разные книги больше не объединяются по совпавшему числу в описании.\n2. Перед скачиванием цикла теперь можно отметить все книги или выбрать только нужные; уже добавленные в загрузки помечены.\n3. В настройках появился переключатель показа всех изданий цикла. По умолчанию видны все книги; выбор для загрузки всегда остаётся полным.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3f",
+  "tag_name": "v2.9.3g",
+  "name": "Аудиокниги Nova 2.9.3g",
+  "body": "1. В настройках звука появился усилитель тихих записей с регулировкой от 0 до +12 дБ.\n2. Громкость Nova теперь можно связать с системной медиагромкостью: ползунок приложения и аппаратные кнопки работают согласованно.\n3. При включении и отключении связанного режима текущая громкость сохраняется без резкого скачка; устройства с фиксированной громкостью продолжают использовать регулятор Nova.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3g",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3f.apk",
-      "size": 52458777,
-      "digest": "sha256:b57b27a1ef0be53037d4b823c8361ec0fb555834706b2a0e0109e052def75a64",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3f/AudiobooksNova-2.9.3f.apk"
+      "name": "AudiobooksNova-2.9.3g.apk",
+      "size": 52475161,
+      "digest": "sha256:2b1c09d4fc5a0dc1fe07ea2883e8c623d91c124760cb9dc1d825867191410d7b",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3g/AudiobooksNova-2.9.3g.apk"
     }
   ]
 }
