@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3m",
-  "name": "Аудиокниги Nova 2.9.3m",
-  "body": "1. Возвращён прежний внешний вид полосы прогресса воспроизведения и стандартного бегунка плеера.\n2. Предзагруженная часть аудио теперь отображается мягким дополнительным оттенком непосредственно внутри обычной полосы.\n3. Оттенок занимает только участок между текущей позицией и фактически загруженной позицией, не меняя привычный вид прослушанной и оставшейся частей.\n4. Механика перемотки и воспроизведения не изменена.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3m",
+  "tag_name": "v2.9.3n",
+  "name": "Аудиокниги Nova 2.9.3n",
+  "body": "1. Восстановлены аккуратные скругления в начале полосы прогресса воспроизведения.\n2. Между указателем текущей позиции и полосой предзагрузки добавлен визуальный зазор.\n3. Предзагруженная часть теперь заканчивается до конечного маркера и не выходит за границы основной дорожки.\n4. Скругления и отступы сохраняются как в начале главы, так и при полной предзагрузке файла.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3n",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3m.apk",
+      "name": "AudiobooksNova-2.9.3n.apk",
       "size": 52507985,
-      "digest": "sha256:8b12746bf3eabb7ba42044f2d1ed154fc4b7af7c13eb8694f1d2762136dd24f9",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3m/AudiobooksNova-2.9.3m.apk"
+      "digest": "sha256:dab93664b16d72f91633ab3dfac0f63da5efb4334cc83df14d4af953f51c58b4",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3n/AudiobooksNova-2.9.3n.apk"
     }
   ]
 }
