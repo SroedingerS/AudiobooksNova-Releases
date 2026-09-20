@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3n",
-  "name": "Аудиокниги Nova 2.9.3n",
-  "body": "1. Восстановлены аккуратные скругления в начале полосы прогресса воспроизведения.\n2. Между указателем текущей позиции и полосой предзагрузки добавлен визуальный зазор.\n3. Предзагруженная часть теперь заканчивается до конечного маркера и не выходит за границы основной дорожки.\n4. Скругления и отступы сохраняются как в начале главы, так и при полной предзагрузке файла.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3n",
+  "tag_name": "v2.9.3o",
+  "name": "Аудиокниги Nova 2.9.3o",
+  "body": "1. Исправлена загрузка целых циклов: ответ 404 после последней страницы больше не отменяет найденные книги.\n2. Для устаревшей ссылки цикла добавлен точный поиск по названию.\n3. Циклы Книгоблуда, Lis10Book и «Книги в ухе» читаются из актуальной разметки и API.\n4. На Akniga восстановлены логические главы без повторной загрузки общего аудиофайла.\n5. Избранное стало независимым для разных источников и озвучек.\n6. При временной проверке Cloudflare AudioBoo используется ранее сохранённый каталог.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3o",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3n.apk",
-      "size": 52507985,
-      "digest": "sha256:dab93664b16d72f91633ab3dfac0f63da5efb4334cc83df14d4af953f51c58b4",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3n/AudiobooksNova-2.9.3n.apk"
+      "name": "AudiobooksNova-2.9.3o.apk",
+      "size": 52524369,
+      "digest": "sha256:a87c8124689ec5118d535e75ec7bdaa2e4e5e7db1efc13e9cfb7c784fdc9bf76",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3o/AudiobooksNova-2.9.3o.apk"
     }
   ]
 }
