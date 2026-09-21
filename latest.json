@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3r",
-  "name": "Аудиокниги Nova 2.9.3r",
-  "body": "Вышел новый релиз 2.9.3r.\n\n1. Для Aknigi24 восстановлены каталог, поиск, карточки книг, главы и медиазапросы без ошибки 403.\n2. Для Aume добавлены ограниченные повторы запросов и сохранённый каталог: при временной недоступности источника приложение может показать ранее успешно загруженные данные.\n3. Диагностика источников теперь отличает актуальные данные от сохранённых и не выдаёт кэш за успешный ответ сервера.\n4. Повышена чувствительность продления таймера сна встряхиванием; добавлен шестой уровень «Максимальная».\n5. Добавлена автоматическая настройка чувствительности по трём пробным встряхиваниям.\n6. В настройках можно включить точный обратный отсчёт таймера сна в формате минуты:секунды. По умолчанию он выключен.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3r",
+  "tag_name": "v2.9.3s",
+  "name": "Аудиокниги Nova 2.9.3s",
+  "body": "Вышел новый релиз 2.9.3s.\n\n1. После просмотра книги поиск возвращается к прежнему месту списка на телефоне, планшете и телевизоре.\n2. Новый поисковый запрос по-прежнему открывает свежую выдачу с начала.\n3. Позиция поиска сохраняется при смене ориентации и размера окна.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3s",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3r.apk",
+      "name": "AudiobooksNova-2.9.3s.apk",
       "size": 52577766,
-      "digest": "sha256:4779039c571d6364da7de08fb79fd3ac69e5fae56deec122fb94b3e0978a9b17",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3r/AudiobooksNova-2.9.3r.apk"
+      "digest": "sha256:12c27bf0173f0d542c68b195af5ddab6cc3e4dc1be0a0ae1a8e4973a82bb00fa",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3s/AudiobooksNova-2.9.3s.apk"
     }
   ]
 }
