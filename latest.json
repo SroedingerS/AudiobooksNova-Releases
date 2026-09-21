@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3o",
-  "name": "Аудиокниги Nova 2.9.3o",
-  "body": "1. Исправлена загрузка целых циклов: ответ 404 после последней страницы больше не отменяет найденные книги.\n2. Для устаревшей ссылки цикла добавлен точный поиск по названию.\n3. Циклы Книгоблуда, Lis10Book и «Книги в ухе» читаются из актуальной разметки и API.\n4. На Akniga восстановлены логические главы без повторной загрузки общего аудиофайла.\n5. Избранное стало независимым для разных источников и озвучек.\n6. При временной проверке Cloudflare AudioBoo используется ранее сохранённый каталог.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3o",
+  "tag_name": "v2.9.3p",
+  "name": "Аудиокниги Nova 2.9.3p",
+  "body": "1. Добавлена кнопка удаления всех офлайн-файлов выбранной книги с сохранением прогресса и закладок.\n2. Таймер сна запоминает последнее время и предупреждает перед остановкой, когда включено продление встряхиванием.\n3. В карусели «Слушаю сейчас» устранены повторяющиеся карточки.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3p",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3o.apk",
+      "name": "AudiobooksNova-2.9.3p.apk",
       "size": 52524369,
-      "digest": "sha256:a87c8124689ec5118d535e75ec7bdaa2e4e5e7db1efc13e9cfb7c784fdc9bf76",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3o/AudiobooksNova-2.9.3o.apk"
+      "digest": "sha256:9312df2c0e0f6875f8d9f1d9f2ffb7c6c8a2f1a273ac80a288f9ad71ca953e1e",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3p/AudiobooksNova-2.9.3p.apk"
     }
   ]
 }
