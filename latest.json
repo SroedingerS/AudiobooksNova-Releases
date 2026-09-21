@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3p",
-  "name": "Аудиокниги Nova 2.9.3p",
-  "body": "1. Добавлена кнопка удаления всех офлайн-файлов выбранной книги с сохранением прогресса и закладок.\n2. Таймер сна запоминает последнее время и предупреждает перед остановкой, когда включено продление встряхиванием.\n3. В карусели «Слушаю сейчас» устранены повторяющиеся карточки.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3p",
+  "tag_name": "v2.9.3q",
+  "name": "Аудиокниги Nova 2.9.3q",
+  "body": "1. На Android TV фокус пульта автоматически выделяет целый блок одной аккуратной рамкой.\n2. Исправлены пиктограммы и обрезанные подписи верхних блоков каталога.\n3. Добавлены отдельные настройки производительности и каналов главного экрана ТВ; обе функции по умолчанию выключены.\n4. Карточки домашнего экрана открывают соответствующую сохранённую книгу в Nova.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3q",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3p.apk",
-      "size": 52524369,
-      "digest": "sha256:9312df2c0e0f6875f8d9f1d9f2ffb7c6c8a2f1a273ac80a288f9ad71ca953e1e",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3p/AudiobooksNova-2.9.3p.apk"
+      "name": "AudiobooksNova-2.9.3q.apk",
+      "size": 52561382,
+      "digest": "sha256:77749877e5f61b94d42f3f225da959b735520ebb3d0f460760747d9b1edf7aa2",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3q/AudiobooksNova-2.9.3q.apk"
     }
   ]
 }
