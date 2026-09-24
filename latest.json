@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.4a",
-  "name": "Аудиокниги Nova 2.9.4a",
-  "body": "Вышел новый релиз 2.9.4a.\n\n1. Добавлены профили производительности «Авто», «Обычный», «Мало памяти» и «Минимум памяти». Прежнее поведение остаётся настройкой по умолчанию.\n2. Экономные профили сокращают число фоновых запросов, размер обложек и их кэш. Минимальный профиль также уменьшает анимации и декоративные эффекты на ТВ.\n3. Профиль сохраняется только на текущем устройстве и не переносится через синхронизацию или резервную копию.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4a",
+  "tag_name": "v2.9.4b",
+  "name": "Аудиокниги Nova 2.9.4b",
+  "body": "Вышел новый релиз 2.9.4b.\n\n1. Длительность книг и скачанных глав показывается в едином понятном формате во всех списках, карточках и на ТВ. Шкала воспроизведения остаётся привычной.\n2. В настройках поиска появился словарь имён и псевдонимов авторов. Свои правила можно добавлять, изменять и удалять, если встроенный фильтр ошибается.\n3. Пользовательские правила имеют приоритет над встроенным определением и сохраняются вместе с настройками при резервном копировании.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4b",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.4a.apk",
-      "size": 52626918,
-      "digest": "sha256:80a08981bf735f4c6c4d0475424b812c2c008e251b7ef2451fe6c4e36fcb585d",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4a/AudiobooksNova-2.9.4a.apk"
+      "name": "AudiobooksNova-2.9.4b.apk",
+      "size": 52643302,
+      "digest": "sha256:c74e1a6bb4462fa0726688130f7edce1dacff63874100175cbde2aba18816b82",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4b/AudiobooksNova-2.9.4b.apk"
     }
   ]
 }
