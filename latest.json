@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3u",
-  "name": "Аудиокниги Nova 2.9.3u",
-  "body": "Вышел новый релиз 2.9.3u.\n\n1. Результаты поиска и раздела «Новые книги» больше не меняют порядок уже показанных карточек, когда приходят ответы других источников.\n2. Во время поиска отображаются число найденных книг и ход проверки источников без скачков списка.\n3. Экран поддержки проекта подстраивается под телевизор, планшет и крупный шрифт; длинные реквизиты переносятся без обрезания.\n4. В настройках сторонних книг добавлены короткая инструкция и кнопка перехода к ним в библиотеке.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3u",
+  "tag_name": "v2.9.3v",
+  "name": "Аудиокниги Nova 2.9.3v",
+  "body": "Вышел новый релиз 2.9.3v.\n\n1. Переходы между книгами сохраняют цепочку: из C можно вернуться в B, затем в A и далее в исходный список.\n2. В списке книг цикла внутри плеера появилась кнопка открытия описания; возврат ведёт обратно в плеер без потери воспроизведения.\n3. Описание скачанной книги можно открыть из развёрнутой карточки в загрузках.\n4. В настройках есть необязательное закрытие окна описания повторным нажатием на текст. По умолчанию оно выключено.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3v",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3u.apk",
+      "name": "AudiobooksNova-2.9.3v.apk",
       "size": 52594150,
-      "digest": "sha256:68aa1cb6d90bad38b14cdb8fd9725b13c1ba26791c735722b081a21afcbfb883",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3u/AudiobooksNova-2.9.3u.apk"
+      "digest": "sha256:5c401d25648713659bff34cdf4a6b6697b12ff4ae85827a4a668f56ea5aad69d",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3v/AudiobooksNova-2.9.3v.apk"
     }
   ]
 }
