@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3w",
-  "name": "Аудиокниги Nova 2.9.3w",
-  "body": "Вышел новый релиз 2.9.3w.\n\n1. На Android TV появился компактный индикатор состояния сети: онлайн, слабое соединение, нет сети или загрузка. Включается отдельно в настройках телевизора и по умолчанию выключен.\n2. При воспроизведении скачанной главы без сети индикатор показывает офлайн-прослушивание; сетевое воспроизведение больше не принимается за офлайн.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3w",
+  "tag_name": "v2.9.3x",
+  "name": "Аудиокниги Nova 2.9.3x",
+  "body": "Вышел новый релиз 2.9.3x.\n\n1. В настройках обновлений можно открыть изменения последних десяти релизов или весь журнал версий.\n2. Журнал загружается с GitHub только по нажатию. После первого открытия он доступен в текущем сеансе без повторной загрузки, а при полном завершении приложения кэш очищается.\n3. При отсутствии сети показывается понятное сообщение и кнопка повторной загрузки. Обычная проверка обновлений работает как прежде.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3x",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3w.apk",
-      "size": 52594150,
-      "digest": "sha256:7155934cb909d92b56d33a8dac468e36b0b21d9697c793ef2272b2283c770720",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3w/AudiobooksNova-2.9.3w.apk"
+      "name": "AudiobooksNova-2.9.3x.apk",
+      "size": 52610534,
+      "digest": "sha256:d17caa5adfaf9ebaeb50b15607640d8549a820c5a077cd093aff9ccc8d438956",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3x/AudiobooksNova-2.9.3x.apk"
     }
   ]
 }
