@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.4b",
-  "name": "Аудиокниги Nova 2.9.4b",
-  "body": "Вышел новый релиз 2.9.4b.\n\n1. Длительность книг и скачанных глав показывается в едином понятном формате во всех списках, карточках и на ТВ. Шкала воспроизведения остаётся привычной.\n2. В настройках поиска появился словарь имён и псевдонимов авторов. Свои правила можно добавлять, изменять и удалять, если встроенный фильтр ошибается.\n3. Пользовательские правила имеют приоритет над встроенным определением и сохраняются вместе с настройками при резервном копировании.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4b",
+  "tag_name": "v2.9.4c",
+  "name": "Аудиокниги Nova 2.9.4c",
+  "body": "Вышел новый релиз 2.9.4c.\n\n1. Настройки распределены по понятным разделам: основные, поиск, плеер, таймер сна, загрузки, библиотека, внешний вид, синхронизация, поддержка и устройство.\n2. Параметры ТВ, планшета и папки сторонних книг больше не переносятся на другие устройства при автоматической синхронизации.\n3. Существующие значения и возможность явного восстановления из резервной копии сохранены.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4c",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.4b.apk",
+      "name": "AudiobooksNova-2.9.4c.apk",
       "size": 52643302,
-      "digest": "sha256:c74e1a6bb4462fa0726688130f7edce1dacff63874100175cbde2aba18816b82",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4b/AudiobooksNova-2.9.4b.apk"
+      "digest": "sha256:22abfe022e1adf33c47d2319fd8b394c8c23392ee7d406028a9bdb1b984e0178",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4c/AudiobooksNova-2.9.4c.apk"
     }
   ]
 }
