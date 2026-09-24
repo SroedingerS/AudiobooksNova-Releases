@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3z",
-  "name": "Аудиокниги Nova 2.9.3z",
-  "body": "Вышел новый релиз 2.9.3z.\n\n1. В настройках загрузок появилась необязательная очистка после книги или скачанного цикла. По умолчанию она выключена.\n2. Удаление предлагается только после естественного завершения всех скачанных глав и всегда требует подтверждения. Пропущенные главы и сторонние книги не затрагиваются.\n3. Очистка работает и с выбранной внешней папкой. Закладки, библиотека и позиция прослушивания сохраняются.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3z",
+  "tag_name": "v2.9.4a",
+  "name": "Аудиокниги Nova 2.9.4a",
+  "body": "Вышел новый релиз 2.9.4a.\n\n1. Добавлены профили производительности «Авто», «Обычный», «Мало памяти» и «Минимум памяти». Прежнее поведение остаётся настройкой по умолчанию.\n2. Экономные профили сокращают число фоновых запросов, размер обложек и их кэш. Минимальный профиль также уменьшает анимации и декоративные эффекты на ТВ.\n3. Профиль сохраняется только на текущем устройстве и не переносится через синхронизацию или резервную копию.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4a",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3z.apk",
+      "name": "AudiobooksNova-2.9.4a.apk",
       "size": 52626918,
-      "digest": "sha256:44ba36c95fb8a4009ba75f0663dfe4bd9eb68b24704ac56d2527e5bfcdf59d15",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3z/AudiobooksNova-2.9.3z.apk"
+      "digest": "sha256:80a08981bf735f4c6c4d0475424b812c2c008e251b7ef2451fe6c4e36fcb585d",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4a/AudiobooksNova-2.9.4a.apk"
     }
   ]
 }
