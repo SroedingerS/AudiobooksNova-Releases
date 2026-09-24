@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3v",
-  "name": "Аудиокниги Nova 2.9.3v",
-  "body": "Вышел новый релиз 2.9.3v.\n\n1. Переходы между книгами сохраняют цепочку: из C можно вернуться в B, затем в A и далее в исходный список.\n2. В списке книг цикла внутри плеера появилась кнопка открытия описания; возврат ведёт обратно в плеер без потери воспроизведения.\n3. Описание скачанной книги можно открыть из развёрнутой карточки в загрузках.\n4. В настройках есть необязательное закрытие окна описания повторным нажатием на текст. По умолчанию оно выключено.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3v",
+  "tag_name": "v2.9.3w",
+  "name": "Аудиокниги Nova 2.9.3w",
+  "body": "Вышел новый релиз 2.9.3w.\n\n1. На Android TV появился компактный индикатор состояния сети: онлайн, слабое соединение, нет сети или загрузка. Включается отдельно в настройках телевизора и по умолчанию выключен.\n2. При воспроизведении скачанной главы без сети индикатор показывает офлайн-прослушивание; сетевое воспроизведение больше не принимается за офлайн.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3w",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3v.apk",
+      "name": "AudiobooksNova-2.9.3w.apk",
       "size": 52594150,
-      "digest": "sha256:5c401d25648713659bff34cdf4a6b6697b12ff4ae85827a4a668f56ea5aad69d",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3v/AudiobooksNova-2.9.3v.apk"
+      "digest": "sha256:7155934cb909d92b56d33a8dac468e36b0b21d9697c793ef2272b2283c770720",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3w/AudiobooksNova-2.9.3w.apk"
     }
   ]
 }
