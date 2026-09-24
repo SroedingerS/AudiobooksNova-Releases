@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3x",
-  "name": "Аудиокниги Nova 2.9.3x",
-  "body": "Вышел новый релиз 2.9.3x.\n\n1. В настройках обновлений можно открыть изменения последних десяти релизов или весь журнал версий.\n2. Журнал загружается с GitHub только по нажатию. После первого открытия он доступен в текущем сеансе без повторной загрузки, а при полном завершении приложения кэш очищается.\n3. При отсутствии сети показывается понятное сообщение и кнопка повторной загрузки. Обычная проверка обновлений работает как прежде.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3x",
+  "tag_name": "v2.9.3y",
+  "name": "Аудиокниги Nova 2.9.3y",
+  "body": "Вышел новый релиз 2.9.3y.\n\n1. В настройках загрузок Nova проверяет, доступна ли выбранная папка на SD-карте, USB-носителе или во внутренней памяти.\n2. Если носитель отключён или разрешение Android потеряно, приложение показывает понятный статус и предлагает повторно проверить доступ либо выбрать папку заново.\n3. Недоступный новый путь не заменяет прежний; уже скачанные книги не удаляются и не переносятся автоматически.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3y",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3x.apk",
+      "name": "AudiobooksNova-2.9.3y.apk",
       "size": 52610534,
-      "digest": "sha256:d17caa5adfaf9ebaeb50b15607640d8549a820c5a077cd093aff9ccc8d438956",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3x/AudiobooksNova-2.9.3x.apk"
+      "digest": "sha256:ef2422278721428a6cabe64e8bbc608ef64b09e88c2fdb27c0b665103a7c3683",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3y/AudiobooksNova-2.9.3y.apk"
     }
   ]
 }
