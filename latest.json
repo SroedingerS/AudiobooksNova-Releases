@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.3y",
-  "name": "Аудиокниги Nova 2.9.3y",
-  "body": "Вышел новый релиз 2.9.3y.\n\n1. В настройках загрузок Nova проверяет, доступна ли выбранная папка на SD-карте, USB-носителе или во внутренней памяти.\n2. Если носитель отключён или разрешение Android потеряно, приложение показывает понятный статус и предлагает повторно проверить доступ либо выбрать папку заново.\n3. Недоступный новый путь не заменяет прежний; уже скачанные книги не удаляются и не переносятся автоматически.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3y",
+  "tag_name": "v2.9.3z",
+  "name": "Аудиокниги Nova 2.9.3z",
+  "body": "Вышел новый релиз 2.9.3z.\n\n1. В настройках загрузок появилась необязательная очистка после книги или скачанного цикла. По умолчанию она выключена.\n2. Удаление предлагается только после естественного завершения всех скачанных глав и всегда требует подтверждения. Пропущенные главы и сторонние книги не затрагиваются.\n3. Очистка работает и с выбранной внешней папкой. Закладки, библиотека и позиция прослушивания сохраняются.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.3z",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.3y.apk",
-      "size": 52610534,
-      "digest": "sha256:ef2422278721428a6cabe64e8bbc608ef64b09e88c2fdb27c0b665103a7c3683",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3y/AudiobooksNova-2.9.3y.apk"
+      "name": "AudiobooksNova-2.9.3z.apk",
+      "size": 52626918,
+      "digest": "sha256:44ba36c95fb8a4009ba75f0663dfe4bd9eb68b24704ac56d2527e5bfcdf59d15",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.3z/AudiobooksNova-2.9.3z.apk"
     }
   ]
 }
