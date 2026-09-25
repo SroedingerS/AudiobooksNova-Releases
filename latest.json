@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.4f",
-  "name": "Аудиокниги Nova 2.9.4f",
-  "body": "Вышел новый релиз 2.9.4f.\n\n1. Разделы настроек снова показаны целиком в сетке с переносом строк. На телефоне больше не нужно искать нужный раздел в узкой горизонтальной ленте.\n2. Список разделов и параметры прокручиваются вместе; закреплённая нижняя панель больше не обрезает содержимое.\n3. Прежняя карточка Nova с версией и Telegram находится в конце каждого раздела. «Поддержка проекта» остаётся сверху.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4f",
+  "tag_name": "v2.9.4g",
+  "name": "Аудиокниги Nova 2.9.4g",
+  "body": "Вышел новый релиз 2.9.4g.\n\n1. В настройке таймера сна по расписанию добавлен удобный ползунок длительности с видимым выбранным временем.\n2. Добавлена быстрая кнопка «20 мин». Длительность можно выбрать с шагом 5 минут от 15 до 90 минут.\n3. Ранее сохранённые значения расписания и работа таймера сохранены.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4g",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.4f.apk",
-      "size": 52659686,
-      "digest": "sha256:09e3bd4a4830b453b7c34255d8045e56e4acd2c1a966ba94b629711a48c74b45",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4f/AudiobooksNova-2.9.4f.apk"
+      "name": "AudiobooksNova-2.9.4g.apk",
+      "size": 52676070,
+      "digest": "sha256:dbb1e1893721c53ba9f28208cc764fdb4207a2cf9309599d2eb204c323172ba3",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4g/AudiobooksNova-2.9.4g.apk"
     }
   ]
 }
