@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.4e",
-  "name": "Аудиокниги Nova 2.9.4e",
-  "body": "Вышел новый релиз 2.9.4e.\n\n1. Настройки стали компактнее: поддержка проекта закреплена сверху, версия и Telegram — снизу. Разделы и содержимое прокручиваются отдельно.\n2. Настройки телефона, планшета и ТВ собраны в единый раздел «Устройства»; показаны только подходящие для текущего устройства параметры.\n3. На странице поддержки исправлена кнопка возврата на телефоне и добавлена прокрутка с пульта на ТВ. Параметры устройства остаются локальными.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4e",
+  "tag_name": "v2.9.4f",
+  "name": "Аудиокниги Nova 2.9.4f",
+  "body": "Вышел новый релиз 2.9.4f.\n\n1. Разделы настроек снова показаны целиком в сетке с переносом строк. На телефоне больше не нужно искать нужный раздел в узкой горизонтальной ленте.\n2. Список разделов и параметры прокручиваются вместе; закреплённая нижняя панель больше не обрезает содержимое.\n3. Прежняя карточка Nova с версией и Telegram находится в конце каждого раздела. «Поддержка проекта» остаётся сверху.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4f",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.4e.apk",
-      "size": 52676070,
-      "digest": "sha256:1da2e899ebc0938a23f0c5004e8b26b3da3dcc3759889ba26268a6e38beb177d",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4e/AudiobooksNova-2.9.4e.apk"
+      "name": "AudiobooksNova-2.9.4f.apk",
+      "size": 52659686,
+      "digest": "sha256:09e3bd4a4830b453b7c34255d8045e56e4acd2c1a966ba94b629711a48c74b45",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4f/AudiobooksNova-2.9.4f.apk"
     }
   ]
 }
