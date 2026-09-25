@@ -32,15 +32,15 @@
 
 ## Скриншоты
 
-| Каталог | Поиск | Карточка книги |
-|---|---|---|
-| ![Каталог Nova](screenshots/screen-1.png) | ![Поиск Nova](screenshots/screen-2.png) | ![Карточка книги Nova](screenshots/screen-3.png) |
-
-| Библиотека | Плеер | Настройки |
-|---|---|---|
-| ![Библиотека Nova](screenshots/screen-4.png) | ![Плеер Nova](screenshots/screen-5.png) | ![Настройки Nova](screenshots/screen-6.png) |
-
-![Дополнительный экран Nova](screenshots/screen-7.png)
+| 1. Каталог — тёмная тема | 2. Поиск — светлая тема |
+|---|---|
+| ![1. Каталог Nova, тёмная тема](screenshots/screen-1.png) | ![2. Поиск Nova, светлая тема](screenshots/screen-2.png) |
+| 3. Библиотека — тёмная тема | 4. Карточка книги — светлая тема |
+| ![3. Библиотека Nova, тёмная тема](screenshots/screen-3.png) | ![4. Карточка книги Nova, светлая тема](screenshots/screen-4.png) |
+| 5. Загрузки — тёмная тема | 6. Плеер — светлая тема |
+| ![5. Загрузки Nova, тёмная тема](screenshots/screen-5.png) | ![6. Плеер Nova, светлая тема](screenshots/screen-6.png) |
+| 7. Настройки — тёмная тема | 8. Внешний вид — светлая тема |
+| ![7. Настройки Nova, тёмная тема](screenshots/screen-7.png) | ![8. Настройки внешнего вида Nova, светлая тема](screenshots/screen-8.png) |
 
 ## Обновления
 
