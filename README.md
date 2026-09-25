@@ -12,7 +12,7 @@
 
 Откройте раздел **Releases** и выберите последний файл `AudiobooksNova-*.apk`. Для обновления поверх установленной Nova цифровая подпись APK должна совпадать.
 
-Актуальная версия: **2.9.4h**. Исправлены результаты поиска и улучшены интерфейсы плеера и Android TV. [Описание изменений](RELEASE-2.9.4h.md) · [Все изменения](CHANGELOG.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4h/AudiobooksNova-2.9.4h.apk).
+Актуальная версия: **2.9.4i**. Добавлена новая иконка «Привет от Юрия» на выбор. [Описание изменений](RELEASE-2.9.4i.md) · [Все изменения](CHANGELOG.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4i/AudiobooksNova-2.9.4i.apk).
 
 Минимальная версия: Android 6.0 (API 23). Поддерживаются телефоны, планшеты и Android TV, книжная и альбомная ориентации.
 
