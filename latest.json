@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.4g",
-  "name": "Аудиокниги Nova 2.9.4g",
-  "body": "Вышел новый релиз 2.9.4g.\n\n1. В настройке таймера сна по расписанию добавлен удобный ползунок длительности с видимым выбранным временем.\n2. Добавлена быстрая кнопка «20 мин». Длительность можно выбрать с шагом 5 минут от 15 до 90 минут.\n3. Ранее сохранённые значения расписания и работа таймера сохранены.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4g",
+  "tag_name": "v2.9.4h",
+  "name": "Аудиокниги Nova 2.9.4h",
+  "body": "Вышел новый релиз 2.9.4h.\n\n1. Поиск больше не скрывает одинаковые книги разных источников; исправлен счётчик результатов с учётом включённых фильтров.\n2. На ТВ полка библиотеки подстраивается под высоту экрана без обрезания книг и нижней панели.\n3. В карточках ТВ-каталога и поиска название цикла вынесено на отдельную строку под жанром.\n4. В мобильном плеере название книги показано крупнее и полностью, а номер главы — компактнее и ниже. Учтён увеличенный шрифт.\n5. В ТВ-плеере отображается состояние сети, если включён существующий переключатель «Индикатор сети».",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4h",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.4g.apk",
+      "name": "AudiobooksNova-2.9.4h.apk",
       "size": 52676070,
-      "digest": "sha256:dbb1e1893721c53ba9f28208cc764fdb4207a2cf9309599d2eb204c323172ba3",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4g/AudiobooksNova-2.9.4g.apk"
+      "digest": "sha256:88fd5d3bcac99f06cce963808e5eaddd099b3f861dc56467c6ed0997008ba548",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4h/AudiobooksNova-2.9.4h.apk"
     }
   ]
 }

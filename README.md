@@ -12,7 +12,7 @@
 
 Откройте раздел **Releases** и выберите последний файл `AudiobooksNova-*.apk`. Для обновления поверх установленной Nova цифровая подпись APK должна совпадать.
 
-Актуальная версия: **2.9.4g**. Длительность таймера сна по расписанию теперь удобно выбирать ползунком; добавлена быстрая кнопка «20 мин». [Описание изменений](RELEASE-2.9.4g.md) · [Все изменения](CHANGELOG.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4g/AudiobooksNova-2.9.4g.apk).
+Актуальная версия: **2.9.4h**. Исправлены результаты поиска и улучшены интерфейсы плеера и Android TV. [Описание изменений](RELEASE-2.9.4h.md) · [Все изменения](CHANGELOG.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4h/AudiobooksNova-2.9.4h.apk).
 
 Минимальная версия: Android 6.0 (API 23). Поддерживаются телефоны, планшеты и Android TV, книжная и альбомная ориентации.
 
