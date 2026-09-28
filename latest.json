@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.4m",
-  "name": "Аудиокниги Nova 2.9.4m",
-  "body": "Вышел новый релиз 2.9.4m.\n\n1. Исправлено отображение чтеца ИзиБук: альтернативная озвучка больше не подменяет выбранную книгу.\n2. Главы ИзиБук и ИзиБук PDA получаются из актуальной версии страницы той же озвучки, вместо старых ссылок с ошибкой 404.\n3. Устаревшие списки глав автоматически обновляются при открытии и новом скачивании книги; сохранённые файлы не удаляются.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4m",
+  "tag_name": "v2.9.4n",
+  "name": "Аудиокниги Nova 2.9.4n",
+  "body": "Вышел новый релиз 2.9.4n.\n\n1. Уменьшен размер APK: включены оптимизация и обфускация кода R8, удаление неиспользуемого кода и ресурсов.\n2. Сохранена поддержка всех четырёх архитектур, телефонов, планшетов и Android TV. Оформление и настройки по умолчанию не изменены.\n3. Сохранены прежний пакет и сертификат подписи для обычного обновления без удаления приложения и данных.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4n",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.4m.apk",
-      "size": 53016319,
-      "digest": "sha256:c639693d105bda74998c7353a1c14b1f478b471164b4bc8c45fc97b4f90c5b44",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4m/AudiobooksNova-2.9.4m.apk"
+      "name": "AudiobooksNova-2.9.4n.apk",
+      "size": 41462542,
+      "digest": "sha256:fec189ce9493f308b530d5a53409ae05d0458ae91f0476c2722e72aed06a2473",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4n/AudiobooksNova-2.9.4n.apk"
     }
   ]
 }
