@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.4n",
-  "name": "Аудиокниги Nova 2.9.4n",
-  "body": "Вышел новый релиз 2.9.4n.\n\n1. Уменьшен размер APK: включены оптимизация и обфускация кода R8, удаление неиспользуемого кода и ресурсов.\n2. Сохранена поддержка всех четырёх архитектур, телефонов, планшетов и Android TV. Оформление и настройки по умолчанию не изменены.\n3. Сохранены прежний пакет и сертификат подписи для обычного обновления без удаления приложения и данных.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4n",
+  "tag_name": "v2.9.4o",
+  "name": "Аудиокниги Nova 2.9.4o",
+  "body": "Вышел новый релиз 2.9.4o.\n\n1. Книгу можно открыть в Nova через меню Android «Поделиться» из браузера: ссылка проверяется и передаётся механизму добавления и воспроизведения.\n2. Плеер можно выключить вручную без удаления книги из «Слушаю»: текущая позиция сохраняется, а плеер снова появляется при запуске книги.\n3. Долгое нажатие на плеер открывает управление мини-плеером и поведением при обычном выходе. Эти параметры хранятся локально; сворачивание приложения не прерывает звук.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4o",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.4n.apk",
-      "size": 41462542,
-      "digest": "sha256:fec189ce9493f308b530d5a53409ae05d0458ae91f0476c2722e72aed06a2473",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4n/AudiobooksNova-2.9.4n.apk"
+      "name": "AudiobooksNova-2.9.4o.apk",
+      "size": 41478926,
+      "digest": "sha256:22d131fd6577ad7629aa31b7f3609e4ea2ca57bf649ee3337c56946f1e1fbc87",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4o/AudiobooksNova-2.9.4o.apk"
     }
   ]
 }
