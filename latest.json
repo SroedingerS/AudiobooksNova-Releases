@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.4p",
-  "name": "Аудиокниги Nova 2.9.4p",
-  "body": "Вышел новый релиз 2.9.4p.\n\n1. В поиске записи с разными чтецами показываются раньше повторов одной озвучки из нескольких источников; ни одна карточка при этом не удаляется.\n2. Загрузка главы после ошибки HTTP 410 повторно получает ссылку с сервера, даже если подробная карточка книги не была сохранена; при временном сбое обновление повторяется.\n3. На экране поиска Android TV добавлена кнопка голосового ввода через установленный на устройстве сервис распознавания речи.\n4. Локальную резервную копию можно сохранить в выбранную папку; в настройках добавлена кнопка удаления двух внутренних копий с подтверждением.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4p",
+  "tag_name": "v2.9.4q",
+  "name": "Аудиокниги Nova 2.9.4q",
+  "body": "Вышел новый релиз 2.9.4q.\n\n1. На экране поиска Android TV текстовая кнопка «Голос» заменена понятной пиктограммой микрофона.\n2. Нажатие на микрофон запускает распознавание речи на ТВ; произнесённый запрос появляется в строке поиска и сразу запускает поиск книг.\n3. Добавлены запрос разрешения на микрофон, индикатор прослушивания и сообщения об ошибках; для ТВ без встроенной службы предусмотрен системный голосовой ввод, если он доступен.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4q",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.4p.apk",
-      "size": 41478926,
-      "digest": "sha256:e933a8aae55a302d1b2df9787952939acfc4ab5d20c4a31b9ea103439ea75bbb",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4p/AudiobooksNova-2.9.4p.apk"
+      "name": "AudiobooksNova-2.9.4q.apk",
+      "size": 41483078,
+      "digest": "sha256:326df845b270f50f186ec1b9aa45e16d9f71a0dcad65f4a3a4da028acbf00064",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4q/AudiobooksNova-2.9.4q.apk"
     }
   ]
 }
