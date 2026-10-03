@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.4s",
-  "name": "Аудиокниги Nova 2.9.4s",
-  "body": "Вышел новый релиз 2.9.4s.\n\n1. При ошибке подготовки скачанной главы плеер показывает сообщение вместо закрытия приложения.\n2. Ошибки запуска службы воспроизведения теперь обрабатываются, книгу можно запустить повторно.\n3. Причина такого сбоя записывается в системный журнал Android для диагностики планшетов.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4s",
+  "tag_name": "v2.9.4t",
+  "name": "Аудиокниги Nova 2.9.4t",
+  "body": "Вышел новый релиз 2.9.4t.\n\n1. Исправлены дубли похожих книг, которые могли закрывать карточку при прокрутке до описания на планшете.\n2. Если на устройстве отсутствует WebView, фоновая проверка Author.Today больше не закрывает приложение.\n3. В плеере с крупной обложкой действия «Сохранить место» и «Мои закладки» перенесены наверх в компактные кнопки; обложка больше не перекрывается ими.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4t",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.4s.apk",
+      "name": "AudiobooksNova-2.9.4t.apk",
       "size": 41483078,
-      "digest": "sha256:ae46f4366e25aae036d51ca7eb49f0b98941fab6399d51efcfc4d1341cee8519",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4s/AudiobooksNova-2.9.4s.apk"
+      "digest": "sha256:3d9df4bedecdc1fa3bf9a171d303f67173e31c012718784fad2e8b7888b4d37c",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4t/AudiobooksNova-2.9.4t.apk"
     }
   ]
 }
