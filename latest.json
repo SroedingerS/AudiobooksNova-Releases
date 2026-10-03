@@ -1,14 +1,14 @@
 {
-  "tag_name": "v2.9.4r",
-  "name": "Аудиокниги Nova 2.9.4r",
-  "body": "Вышел новый релиз 2.9.4r.\n\n1. Однострочные виджеты плеера стали компактнее: исправлена высота, из-за которой на некоторых телефонах они занимали две строки рабочего стола.\n2. На Android TV после возврата из книги восстанавливается выбранная карточка в каталоге, поиске и библиотеке; в окне удаления из «Слушаю» выделение показывает текущую кнопку.\n3. Известная длительность главы сохраняется и отображается в списке глав после перехода к следующей главе.\n4. В настройках можно отключить автоматические уведомления о новых версиях, сохранив ручную проверку обновлений.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4r",
+  "tag_name": "v2.9.4s",
+  "name": "Аудиокниги Nova 2.9.4s",
+  "body": "Вышел новый релиз 2.9.4s.\n\n1. При ошибке подготовки скачанной главы плеер показывает сообщение вместо закрытия приложения.\n2. Ошибки запуска службы воспроизведения теперь обрабатываются, книгу можно запустить повторно.\n3. Причина такого сбоя записывается в системный журнал Android для диагностики планшетов.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v2.9.4s",
   "assets": [
     {
-      "name": "AudiobooksNova-2.9.4r.apk",
+      "name": "AudiobooksNova-2.9.4s.apk",
       "size": 41483078,
-      "digest": "sha256:b891696de71ae5804a92739f0282cd25ee1a85aa13f1808a7ef076c28c71f2b4",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4r/AudiobooksNova-2.9.4r.apk"
+      "digest": "sha256:ae46f4366e25aae036d51ca7eb49f0b98941fab6399d51efcfc4d1341cee8519",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v2.9.4s/AudiobooksNova-2.9.4s.apk"
     }
   ]
 }
