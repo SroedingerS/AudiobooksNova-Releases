@@ -1,4 +1,26 @@
-Third-party notices for Nova 3.0.0c.
+Third-party notices for Nova 3.0.0d.
+
+PDF text-layer extraction: PdfBox-Android 2.0.27.0, Tom Roush and Apache PDFBox contributors.
+Source: https://github.com/TomRoush/PdfBox-Android
+Apache License 2.0 (full text below). Bouncy Castle jdk18on 1.79 is reused; its license is below.
+
+PDFBox upstream NOTICE:
+Apache PDFBox
+Copyright 2014 The Apache Software Foundation
+This product includes software developed at The Apache Software Foundation (http://www.apache.org/).
+Based on source code originally developed in the PDFBox and FontBox projects.
+Copyright (c) 2002-2007, www.pdfbox.org
+Based on source code originally developed in the PaDaF project.
+Copyright (c) 2010 Atos Worldline SAS
+Includes the Adobe Glyph List
+Copyright 1997, 1998, 2002, 2007, 2010 Adobe Systems Incorporated.
+Includes the Zapf Dingbats Glyph List
+Copyright 2002, 2010 Adobe Systems Incorporated.
+Includes the Script Property (Scripts-10.0.0.txt)
+Copyright 2017 Unicode, Inc.
+
+Liberation Sans Regular 2.1.5: copyright 2010 Google Corporation, 2012 Red Hat, Inc.
+SIL Open Font License 1.1; full text is in licenses/LIBERATION-SANS.txt.
 
 MOBI compression/container implementation references hhk-png/lingo-reader.
 Source: https://github.com/hhk-png/lingo-reader/tree/main/packages/mobi-parser/src
