@@ -1,4 +1,16 @@
-Third-party notices for Nova 3.0.0d.
+Third-party notices for Nova 3.0.0j.
+
+Java API compatibility on older Android versions:
+com.android.tools:desugar_jdk_libs_nio:2.1.5 and its NIO desugaring configuration.
+Unmodified upstream runtime by Google and OpenJDK contributors.
+Corresponding upstream source release commit:
+https://github.com/google/desugar_jdk_libs/commit/73170c345e6a762fc6a1f0301bb15218850023ef
+The complete corresponding upstream source and notices are provided as the
+desugar_jdk_libs-2.1.5-sources.zip asset of the Nova 3.0.0j release, together with
+LICENSE-desugar-jdk-libs-2.1.5.txt and README.txt describing the build configuration.
+Designated library files use GPL version 2 with the Classpath Exception; see the
+upstream LICENSE and ADDITIONAL_LICENSE_INFO for all included components.
+Nova is an independent application module; its license is not changed by this runtime.
 
 PDF text-layer extraction: PdfBox-Android 2.0.27.0, Tom Roush and Apache PDFBox contributors.
 Source: https://github.com/TomRoush/PdfBox-Android
