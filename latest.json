@@ -1,14 +1,14 @@
 {
-  "tag_name": "v3.0.0o",
-  "name": "Аудиокниги Nova 3.0.0o",
-  "body": "Вышел новый релиз 3.0.0o.\n\n1. Добавлено удаление импортированных аудиокниг с освобождением памяти. Исходные файлы остаются на месте.\n2. Сбросить прослушивание теперь можно до попадания книги в «Слушаю». Позиция и накопленные минуты обнуляются, файлы и закладки сохраняются.\n3. Исправлен вылет при входе в Яндекс Диск.\n4. Упрощено подключение папок Яндекс Диска: вставка ссылки, выбор папки без ручного ввода пути и поиск книг сразу после добавления.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.0o",
+  "tag_name": "v3.0.0p",
+  "name": "Аудиокниги Nova 3.0.0p",
+  "body": "Вышел новый релиз 3.0.0p.\n\n1. Ускорено восстановление последней книги с большим списком глав. Убраны лишние записи в базу и блокировка, которая могла задерживать отклик плеера.\n2. У ознакомительных фрагментов появилась отметка «Демо» рядом с обложкой. Исправлена потеря таких книг при разборе результатов поиска на части серверов.\n3. Добавлен режим SMB1 для старых роутеров. Его нужно выбрать в настройках сетевой папки. По умолчанию остаётся SMB2/3, автоматического перехода на SMB1 нет.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.0p",
   "assets": [
     {
-      "name": "AudiobooksNova-3.0.0o.apk",
-      "size": 46051415,
-      "digest": "sha256:08f0a9eb20c96ba9df857dd0d4194f5e32796d19e80951afef29fcca5f83848e",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.0o/AudiobooksNova-3.0.0o.apk"
+      "name": "AudiobooksNova-3.0.0p.apk",
+      "size": 46387443,
+      "digest": "sha256:d76ee90fda09e46b9616f96601d30e4dc423e8e04502b1f0da5c1892e646861a",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.0p/AudiobooksNova-3.0.0p.apk"
     }
   ]
 }

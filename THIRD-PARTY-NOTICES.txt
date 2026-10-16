@@ -1,4 +1,22 @@
-Third-party notices for Nova 3.0.0l.
+Third-party notices for Nova 3.0.0p.
+
+Optional SMB1 compatibility: eu.agno3.jcifs:jcifs-ng:2.1.9.
+Unmodified upstream library, GNU Lesser General Public License 2.1 or later.
+jCIFS: Copyright (C) 2000 Michael B. Allen; jcifs-ng: AgNO3 and other contributors.
+Individual copyright notices are retained in the complete source archive.
+Source tag jcifs-ng-2.1.9, commit 68a67da2e56ab8238e994ffa0256cbb9c4c19a91:
+https://github.com/AgNO3/jcifs-ng/tree/68a67da2e56ab8238e994ffa0256cbb9c4c19a91
+The complete source, LGPL text and replacement utilities are supplied with this release:
+jcifs-ng-2.1.9-Nova-3.0.0p-materials.zip.
+https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.0p
+Nova permits modification for the customer's own use and reverse engineering
+for debugging such modifications when replacing this library. Rights to the
+library itself are governed by the full LGPL and are not restricted by this notice.
+The official APK supplies Nova's compiled code; the replacement kit requires
+neither Nova's source code nor its private signing key. Sign a rebuilt APK with
+your own key. See the kit instructions before installing, to preserve user data.
+The LGPL text is also in licenses/JCIFS-NG-LGPL-2.1.txt and in the application's
+network-folder settings. SMB1 is never selected automatically.
 
 Java API compatibility on older Android versions:
 com.android.tools:desugar_jdk_libs_nio:2.1.5 and its NIO desugaring configuration.
