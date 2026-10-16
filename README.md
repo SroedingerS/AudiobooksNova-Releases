@@ -12,7 +12,7 @@
 
 Откройте раздел **Releases** и выберите последний файл `AudiobooksNova-*.apk`. Для обновления поверх установленной Nova цифровая подпись APK должна совпадать.
 
-Актуальная версия: **3.0.0m**. Исправлены переходы с пульта через поля ввода на ТВ, повторное открытие клавиатуры и поиск в OPDS. [Описание изменений](RELEASE-3.0.0m.md) · [Все изменения](CHANGELOG.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.0m/AudiobooksNova-3.0.0m.apk).
+Актуальная версия: **3.0.0n**. Исправлены открытие и поиск книг, выделение карточек на ТВ. Книги попадают в «Слушаю» после пяти минут прослушивания. [Описание изменений](RELEASE-3.0.0n.md) · [Все изменения](CHANGELOG.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.0n/AudiobooksNova-3.0.0n.apk).
 
 Минимальная версия: Android 6.0 (API 23). Поддерживаются телефоны, планшеты и Android TV, книжная и альбомная ориентации.
 
