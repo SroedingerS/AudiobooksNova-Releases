@@ -1,14 +1,14 @@
 {
-  "tag_name": "v3.0.0u",
-  "name": "Аудиокниги Nova 3.0.0u",
-  "body": "Вышел новый релиз 3.0.0u\n\n1. Добавил на ТВ вход в Google Диск по коду: подтвердить подключение можно с телефона или компьютера. Обычный вход Google тоже остался.\n2. Ошибки подключения Google теперь попадают в журнал с указанием этапа. Если сервисы Google недоступны, Nova объясняет причину, а не оставляет бесконечное ожидание.\n3. Если на ТВ нет выбора папок, при импорте можно выбрать файлы, а новые загрузки — сохранять в папку Nova. Старые книги остаются на месте.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.0u",
+  "tag_name": "v3.0.0v",
+  "name": "Аудиокниги Nova 3.0.0v",
+  "body": "Вышел новый релиз 3.0.0v\n\n1. Исправил прослушивание и скачивание с Audioknigi TOP, в том числе книги «T» Виктора Пелевина. Nova получает рабочие ссылки из нового плеера сайта.\n2. При отказе доступа плеер сразу обновляет ссылку на главу. Смена временной ссылки не сбрасывает место прослушивания и не создаёт новые главы вместо старых.\n3. Если источник всё равно не отдаёт аудио, Nova останавливает повторные запросы и показывает понятную причину с подсказкой обновить книгу или найти её на другом источнике.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.0v",
   "assets": [
     {
-      "name": "AudiobooksNova-3.0.0u.apk",
+      "name": "AudiobooksNova-3.0.0v.apk",
       "size": 46440915,
-      "digest": "sha256:f391392ead0007246cb6fec0f1c733b2398d3800ac5960ce910d44356b28ab9d",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.0u/AudiobooksNova-3.0.0u.apk"
+      "digest": "sha256:3a4c4fc5ca4044f4512ff4dc18fefacaa68eccdc3f3fd624392f64a0038bc099",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.0v/AudiobooksNova-3.0.0v.apk"
     }
   ]
 }

@@ -12,7 +12,7 @@
 
 Откройте раздел **Releases** и выберите последний файл `AudiobooksNova-*.apk`. Для обновления поверх установленной Nova цифровая подпись APK должна совпадать.
 
-Актуальная версия: **3.0.0u**. На ТВ добавлен вход в Google Диск по коду с телефона, обычный вход сохранён. Доработаны диагностика подключения и импорт на устройствах без системного выбора папок. [Описание изменений](RELEASE-3.0.0u.md) · [Все изменения](CHANGELOG.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.0u/AudiobooksNova-3.0.0u.apk).
+Актуальная версия: **3.0.0v**. Исправлены прослушивание и скачивание с Audioknigi TOP, обновление временных ссылок на главы и сообщения об отказе доступа к аудио. [Описание изменений](RELEASE-3.0.0v.md) · [Все изменения](CHANGELOG.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.0v/AudiobooksNova-3.0.0v.apk).
 
 Минимальная версия: Android 6.0 (API 23). Поддерживаются телефоны, планшеты и Android TV, книжная и альбомная ориентации.
 
