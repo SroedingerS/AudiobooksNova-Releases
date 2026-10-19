@@ -1,4 +1,4 @@
-Third-party notices for Nova 3.0.0r.
+Third-party notices for Nova 3.0.0u.
 
 Optional SMB1 compatibility: eu.agno3.jcifs:jcifs-ng:2.1.9.
 Unmodified upstream library, GNU Lesser General Public License 2.1 or later.
@@ -7,8 +7,8 @@ Individual copyright notices are retained in the complete source archive.
 Source tag jcifs-ng-2.1.9, commit 68a67da2e56ab8238e994ffa0256cbb9c4c19a91:
 https://github.com/AgNO3/jcifs-ng/tree/68a67da2e56ab8238e994ffa0256cbb9c4c19a91
 The complete source, LGPL text and replacement utilities are supplied with this release:
-jcifs-ng-2.1.9-Nova-3.0.0r-materials.zip.
-https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.0r
+jcifs-ng-2.1.9-Nova-3.0.0u-materials.zip.
+https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.0u
 Nova permits modification for the customer's own use and reverse engineering
 for debugging such modifications when replacing this library. Rights to the
 library itself are governed by the full LGPL and are not restricted by this notice.
@@ -24,7 +24,7 @@ Unmodified upstream runtime by Google and OpenJDK contributors.
 Corresponding upstream source release commit:
 https://github.com/google/desugar_jdk_libs/commit/73170c345e6a762fc6a1f0301bb15218850023ef
 The complete corresponding upstream source and notices are provided as the
-desugar_jdk_libs-2.1.5-sources.zip asset of the Nova 3.0.0l release, together with
+desugar_jdk_libs-2.1.5-sources.zip asset of this release, together with
 LICENSE-desugar-jdk-libs-2.1.5.txt and README.txt describing the build configuration.
 Designated library files use GPL version 2 with the Classpath Exception; see the
 upstream LICENSE and ADDITIONAL_LICENSE_INFO for all included components.
