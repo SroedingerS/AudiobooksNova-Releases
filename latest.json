@@ -1,14 +1,14 @@
 {
-  "tag_name": "v3.0.1e",
-  "name": "Аудиокниги Nova 3.0.1e",
-  "body": "Вышел новый релиз 3.0.1e.\n\n1. Исправлен возврат из проверки AudioBoo: когда страница книги готова, окно закрывается и Nova получает её главы, не дожидаясь загрузки всех картинок сайта.\n2. Подтверждённая страница больше не загружается повторно сразу после проверки.\n3. Для других книг и каталога используется тот же сеанс AudioBoo. Пока подтверждение действует, короткая автоматическая проверка может завершиться без нового окна.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.1e",
+  "tag_name": "v3.0.1f",
+  "name": "Аудиокниги Nova 3.0.1f",
+  "body": "Вышел новый релиз 3.0.1f.\n\n1. AudioBoo: исправлены загрузка каталога и переходы между книгами после проверки сайта. Пока подтверждение действует, оно используется и для остальных страниц этого источника.\n2. Исправлены загрузка обложек AudioBoo в плеере и обработка страниц, которые долго догружаются.\n3. Исправлено освобождение уведомления аудиоплеера при переходе к озвучке текста. Очередь и позиция аудиокниги сохраняются.\n4. Доработана отправка журнала ошибок: после возврата из окна отправки можно оставить записи или очистить только отправленный отчёт. Новые записи сохраняются.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.1f",
   "assets": [
     {
-      "name": "AudiobooksNova-3.0.1e.apk",
+      "name": "AudiobooksNova-3.0.1f.apk",
       "size": 46637523,
-      "digest": "sha256:7fb172560afd03b2693ccf9cc621afbe36c219a1c9c7c0dc659faea9a9c6c78e",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.1e/AudiobooksNova-3.0.1e.apk"
+      "digest": "sha256:4886890776a9c8ef2628411c499c8013cd85187b94524106182df93e4245d539",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.1f/AudiobooksNova-3.0.1f.apk"
     }
   ]
 }
