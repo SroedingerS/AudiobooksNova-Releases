@@ -1,14 +1,14 @@
 {
-  "tag_name": "v3.0.1o",
-  "name": "Аудиокниги Nova 3.0.1o",
-  "body": "Вышел новый релиз 3.0.1o.\n\n1. Оформление плеера с большой обложкой и стартового экрана теперь учитывает выбранную тему приложения.\n2. Жанры в карточках книг оформлены одинаково: первый жанр больше не выглядит выбранным фильтром.\n3. Если книга ещё не открыта, виджет показывает выбранный значок Nova. Обложки открытых книг сохраняются.\n4. В системном меню «Поделиться» используется выбранный значок Nova. Сохранены импорт файлов и открытие рекомендаций.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.1o",
+  "tag_name": "v3.0.1p",
+  "name": "Аудиокниги Nova 3.0.1p",
+  "body": "Вышел новый релиз 3.0.1p.\n\n1. Исправлены найденные причины зависаний плеера при фоновой синхронизации и переключении между большой обложкой и полным плеером.\n2. Обложка в виджете больше не заменяется значком Nova при паузе, продолжении и смене главы. Выбранная вручную обложка тоже обновляется.\n3. В большом плеере и полноэкранном просмотре подгружается более крупная обложка, если она есть у источника. Если сайт отдаёт только маленькую картинку, её качество остаётся ограниченным.\n4. Исправлены запросы Aknigi24, на которые сайт отвечал ошибкой 403.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.1p",
   "assets": [
     {
-      "name": "AudiobooksNova-3.0.1o.apk",
+      "name": "AudiobooksNova-3.0.1p.apk",
       "size": 46773028,
-      "digest": "sha256:94d6e5ce2e6cc229a9bb52fa1ffa7ecec0f76b2d151e52f5b3f13692d0a91d68",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.1o/AudiobooksNova-3.0.1o.apk"
+      "digest": "sha256:ad7d095b4c612823c5177493296cecea7cb02e95bf08166bef2569dfbf4fc7ea",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.1p/AudiobooksNova-3.0.1p.apk"
     }
   ]
 }
