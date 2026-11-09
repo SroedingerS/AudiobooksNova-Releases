@@ -12,7 +12,7 @@
 
 Откройте раздел **Releases** и выберите последний файл `AudiobooksNova-*.apk`. Для обновления поверх установленной Nova цифровая подпись APK должна совпадать.
 
-Актуальная версия: **3.0.1x**. Audio-Lib, звуковой тракт и необязательный просмотр своих книг по папкам. [Описание изменений](RELEASE-3.0.1x.md) · [Все изменения](CHANGELOG.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.1x/AudiobooksNova-3.0.1x.apk).
+Актуальная версия: **3.0.1y**. Новые виджеты, фильтр чтецов, подборки и Android Auto. [Описание изменений](RELEASE-3.0.1y.md) · [Все изменения](CHANGELOG.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.1y/AudiobooksNova-3.0.1y.apk).
 
 Минимальная версия: Android 6.0 (API 23). Поддерживаются телефоны, планшеты и Android TV, книжная и альбомная ориентации.
 
