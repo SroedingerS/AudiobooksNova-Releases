@@ -12,7 +12,7 @@
 
 Откройте раздел **Releases** и выберите последний файл `AudiobooksNova-*.apk`. Для обновления поверх установленной Nova цифровая подпись APK должна совпадать.
 
-Актуальная версия: **3.0.1y**. Новые виджеты, фильтр чтецов, подборки и Android Auto. [Описание изменений](RELEASE-3.0.1y.md) · [Все изменения](CHANGELOG.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.1y/AudiobooksNova-3.0.1y.apk).
+Актуальная версия: **3.0.1z**. Отдельный виджет внешнего экрана Samsung FlexWindow. [Описание изменений](RELEASE-3.0.1z.md) · [Все изменения](CHANGELOG.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.1z/AudiobooksNova-3.0.1z.apk).
 
 Минимальная версия: Android 6.0 (API 23). Поддерживаются телефоны, планшеты и Android TV, книжная и альбомная ориентации.
 
