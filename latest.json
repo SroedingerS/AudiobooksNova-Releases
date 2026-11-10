@@ -1,14 +1,14 @@
 {
-  "tag_name": "v3.0.1z",
-  "name": "Аудиокниги Nova 3.0.1z",
-  "body": "Вышел новый релиз 3.0.1z.\n\n1. Добавлен отдельный виджет «Nova · Внешний экран» для Samsung FlexWindow. Он выбирается в настройках внешнего экрана телефона.\n2. Во внешнем виджете — обложка, название, прогресс и крупные кнопки воспроизведения и перемотки. Обычные домашние виджеты сохранены.\n3. Таймер сна и скорость переключаются нажатием по кругу, без открытия окна на основном экране и отдельного фонового плеера.\n\nДобавление: настройки телефона → Внешний экран → Виджеты → Nova. Доступность зависит от модели и прошивки Samsung; на физическом Flip7 с One UI 9 ещё требуется подтверждение.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.1z",
+  "tag_name": "v3.0.2a",
+  "name": "Аудиокниги Nova 3.0.2a",
+  "body": "Вышел новый релиз 3.0.2a.\n\n1. Поправлен ввод HEX: акцент сохраняется с точным RGB. Цвет можно вставить, очистить и исправить перед применением.\n2. Во внешнем виджете Samsung — две крупные кнопки: воспроизведение и таймер. Таймер включает последнее выбранное время, следующее нажатие выключает его.\n3. На широком экране импорт и фильтры библиотеки собраны в одну строку. При узком экране или крупном шрифте элементы переносятся ниже.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2a",
   "assets": [
     {
-      "name": "AudiobooksNova-3.0.1z.apk",
+      "name": "AudiobooksNova-3.0.2a.apk",
       "size": 14993885,
-      "digest": "sha256:0735df316d20e360e38c44d77ad8b2ef884df13e2ad935c600b0d6d93e9afeb6",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.1z/AudiobooksNova-3.0.1z.apk"
+      "digest": "sha256:1d14c0d53b56dc8fb41cd13d895532ffd3d22a30683fe6c0d810995f50e588e5",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2a/AudiobooksNova-3.0.2a.apk"
     }
   ]
 }
