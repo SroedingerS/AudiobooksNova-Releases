@@ -12,7 +12,7 @@
 
 Откройте раздел **Releases** и выберите последний файл `AudiobooksNova-*.apk`. Для обновления поверх установленной Nova цифровая подпись APK должна совпадать.
 
-Актуальная версия: **3.0.2a**. Точный HEX, упрощённый внешний виджет Samsung и удобная строка фильтров библиотеки. [Описание изменений](RELEASE-3.0.2a.md) · [Все изменения](CHANGELOG.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2a/AudiobooksNova-3.0.2a.apk).
+Актуальная версия: **3.0.2b**. Главы «Книги в ухе», команды управления с часов и компоновка ТВ-плеера. [Описание изменений](RELEASE-3.0.2b.md) · [Все изменения](CHANGELOG.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2b/AudiobooksNova-3.0.2b.apk).
 
 Минимальная версия: Android 6.0 (API 23). Поддерживаются телефоны, планшеты и Android TV, книжная и альбомная ориентации.
 
