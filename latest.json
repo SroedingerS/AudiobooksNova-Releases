@@ -1,14 +1,14 @@
 {
-  "tag_name": "v3.0.2c",
-  "name": "Аудиокниги Nova 3.0.2c",
-  "body": "Вышел новый релиз 3.0.2c.\n\n1. «Книга в ухе»: названия книг, открытие ссылок и поиск книги без доступных глав на других источниках.\n2. Совместимость старых аудиозакладок и запросов к Audio-Lib и Lis10book.\n3. На ТВ курсор HEX при начале редактирования с пульта ставится в конец значения.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2c",
+  "tag_name": "v3.0.2d",
+  "name": "Аудиокниги Nova 3.0.2d",
+  "body": "Вышел новый релиз 3.0.2d.\n\n1. Поправлена совместимость управления текущей аудиокнигой с часов и браслетов через системный медиатокен.\n2. Команды часов управляют открытой записью, без выбора постороннего файла и доступа к библиотеке.\n3. Старые команды закрытой книги не запускают её заново. Аудиокнига и читалка сохраняют раздельное управление.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2d",
   "assets": [
     {
-      "name": "AudiobooksNova-3.0.2c.apk",
+      "name": "AudiobooksNova-3.0.2d.apk",
       "size": 14993885,
-      "digest": "sha256:41fb000e69086580f4e311d8c7a166af6a018752a791156a31ad59d9b76de357",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2c/AudiobooksNova-3.0.2c.apk"
+      "digest": "sha256:a730422e5d752ec5e9aa424c545051aa2566f1e01b68585d2708a0dfec933159",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2d/AudiobooksNova-3.0.2d.apk"
     }
   ]
 }
