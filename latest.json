@@ -1,14 +1,14 @@
 {
-  "tag_name": "v3.0.2d",
-  "name": "Аудиокниги Nova 3.0.2d",
-  "body": "Вышел новый релиз 3.0.2d.\n\n1. Поправлена совместимость управления текущей аудиокнигой с часов и браслетов через системный медиатокен.\n2. Команды часов управляют открытой записью, без выбора постороннего файла и доступа к библиотеке.\n3. Старые команды закрытой книги не запускают её заново. Аудиокнига и читалка сохраняют раздельное управление.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2d",
+  "tag_name": "v3.0.2e",
+  "name": "Аудиокниги Nova 3.0.2e",
+  "body": "Вышел новый релиз 3.0.2e.\n\n1. Audio-Lib и Lis10book: совместимость запросов каталогов и списков глав.\n2. История: установка, продление, восстановление и срабатывание таймера, автоматические переходы и более ранние записи.\n3. Синхронизация: повтор отложенного запроса без постоянного опроса облака.\n4. В загрузках можно заранее менять порядок книг цикла. В быстрый таймер добавлено 25 минут.\n5. Превью виджетов для старых устройств и выбранные иконки для ТВ.\n6. Журнал точнее различает команды, служебные события и состояние интерфейса.\n7. В настройках добавлен пункт фоновой работы и автозапуска с переходами к системным настройкам.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2e",
   "assets": [
     {
-      "name": "AudiobooksNova-3.0.2d.apk",
-      "size": 14993885,
-      "digest": "sha256:a730422e5d752ec5e9aa424c545051aa2566f1e01b68585d2708a0dfec933159",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2d/AudiobooksNova-3.0.2d.apk"
+      "name": "AudiobooksNova-3.0.2e.apk",
+      "size": 15228077,
+      "digest": "sha256:6c2826b2673ea90444b9d2784e7e78196af4fc18102ac4f39d38adc6114de4a0",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2e/AudiobooksNova-3.0.2e.apk"
     }
   ]
 }
