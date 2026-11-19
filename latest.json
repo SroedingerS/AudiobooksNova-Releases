@@ -1,14 +1,14 @@
 {
-  "tag_name": "v3.0.2i",
-  "name": "Аудиокниги Nova 3.0.2i",
-  "body": "Вышел новый релиз 3.0.2i.\n\n1. Граммофон использует уже полученные отрезки аудио при перемотке. Если нужный отрезок ещё не получен, он загружается с источника.\n2. В библиотеке считается прогресс книги с одной главой, когда плеер уже измерил её длительность.\n3. При открытии Nova синхронизация с Google Диском выполняет один запрос авторизации.\n4. На паузе карточку плеера можно смахнуть в поддерживаемой Android шторке. Место и очередь сохраняются. В инструкции добавлено, как вернуться к точке установки таймера сна.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2i",
+  "tag_name": "v3.0.2j",
+  "name": "Аудиокниги Nova 3.0.2j",
+  "body": "1. Добавляйте каналы в «Личные источники» и ищите книги внутри выбранного канала.\n2. Части одной озвучки с явной нумерацией собираются в порядке глав.\n3. Ссылка на 101.ru открывает выбор станций. Сохраните их на полку и переключайтесь в плеере.\n4. В библиотеке появился поиск по сохранённым книгам.\n5. В эквалайзере можно включить выравнивание громкости речи.\n6. В меню плеера можно восстановить звуковой выход с текущей позиции.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2j",
   "assets": [
     {
-      "name": "AudiobooksNova-3.0.2i.apk",
-      "size": 15548273,
-      "digest": "sha256:57be4996859704199406c12f6f67cf5b3a360a99f15f66ddd515b37de75324d8",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2i/AudiobooksNova-3.0.2i.apk"
+      "name": "AudiobooksNova-3.0.2j.apk",
+      "size": 15597425,
+      "digest": "sha256:2b964859dc5e29e12f78fed29dfdcb3e97ddb88815a20b35a6255e7fa444838e",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2j/AudiobooksNova-3.0.2j.apk"
     }
   ]
 }
