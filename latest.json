@@ -1,14 +1,14 @@
 {
-  "tag_name": "v3.0.2k",
-  "name": "Аудиокниги Nova 3.0.2k",
-  "body": "1. В списке источников убрали шесть неиспользуемых каталогов. Ранее сохранённые книги остаются в библиотеке.\n2. Личный канал можно добавить через «Поделиться». Перед названием личного канала теперь есть значок.\n3. Если автор или чтец указан в описании выпуска, Nova покажет его имя. Когда чтец не указан, видно название канала.\n4. У радио и трансляций появилась отметка «Прямой эфир». Перемотка появляется, когда эфир её поддерживает.\n5. Исправили загрузку глав на Отрубе при открытии книги из каталога.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2k",
+  "tag_name": "v3.0.2l",
+  "name": "Аудиокниги Nova 3.0.2l",
+  "body": "1. Вернули привычный экран плеера. У эфира отметка на месте прогресса, перемотка доступна там, где её поддерживает поток.\n2. «Слушаю» сохраняет список при переключении между станцией и книгой.\n3. У личных каналов известные главы открываются сразу, а данные автора и чтеца берутся из доступной информации.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2l",
   "assets": [
     {
-      "name": "AudiobooksNova-3.0.2k.apk",
+      "name": "AudiobooksNova-3.0.2l.apk",
       "size": 15597481,
-      "digest": "sha256:279410c9df102865727514e400f1f28bff3d20c4509f77b05ea27ba5c1a5931d",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2k/AudiobooksNova-3.0.2k.apk"
+      "digest": "sha256:9327113919e2001196352677b0e9d717fb3dae431403756004b0af169e502ffb",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2l/AudiobooksNova-3.0.2l.apk"
     }
   ]
 }
