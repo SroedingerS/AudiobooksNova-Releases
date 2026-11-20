@@ -1,14 +1,14 @@
 {
-  "tag_name": "v3.0.2l",
-  "name": "Аудиокниги Nova 3.0.2l",
-  "body": "1. Вернули привычный экран плеера. У эфира отметка на месте прогресса, перемотка доступна там, где её поддерживает поток.\n2. «Слушаю» сохраняет список при переключении между станцией и книгой.\n3. У личных каналов известные главы открываются сразу, а данные автора и чтеца берутся из доступной информации.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2l",
+  "tag_name": "v3.0.2m",
+  "name": "Аудиокниги Nova 3.0.2m",
+  "body": "1. Библиотека быстрее считает книги в разделах.\n2. На паузе плеер делает меньше фоновых проверок.\n3. Если связь прервалась во время прослушивания, плеер ждёт её возвращения и продолжает с сохранённой позиции.\n4. В настройках таймера сна можно поставить остановку в конце текущей главы.\n5. После подтверждения доступа к AudioBoo Nova сразу повторяет загрузку пропавших обложек.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2m",
   "assets": [
     {
-      "name": "AudiobooksNova-3.0.2l.apk",
+      "name": "AudiobooksNova-3.0.2m.apk",
       "size": 15597481,
-      "digest": "sha256:9327113919e2001196352677b0e9d717fb3dae431403756004b0af169e502ffb",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2l/AudiobooksNova-3.0.2l.apk"
+      "digest": "sha256:7173b58ff8389a268f5a1e714752a36fd6118dd171cc6424fe123257360e3088",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2m/AudiobooksNova-3.0.2m.apk"
     }
   ]
 }
