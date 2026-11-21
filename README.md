@@ -12,7 +12,7 @@
 
 Откройте раздел **Releases** и выберите последний файл `AudiobooksNova-*.apk`. Для обновления поверх установленной Nova цифровая подпись APK должна совпадать.
 
-Актуальная версия: **3.0.2o**. Компактные карточки на широком экране и быстрый переход между полками. [Описание изменений](RELEASE-3.0.2o.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2o/AudiobooksNova-3.0.2o.apk).
+Актуальная версия: **3.0.2p**. Радиостанции DJKostis в библиотеке. [Описание изменений](RELEASE-3.0.2p.md) · [Скачать APK](https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2p/AudiobooksNova-3.0.2p.apk).
 
 Минимальная версия: Android 6.0 (API 23). Поддерживаются телефоны, планшеты и Android TV, книжная и альбомная ориентации.
 
