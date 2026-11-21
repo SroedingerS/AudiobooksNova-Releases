@@ -1,14 +1,14 @@
 {
-  "tag_name": "v3.0.2n",
-  "name": "Аудиокниги Nova 3.0.2n",
-  "body": "1. Готовая временная копия аудио теперь доступна при повторном открытии записи даже после перезапуска приложения.\n2. После возврата связи плеер может продолжить с сохранённого места без повторной загрузки, если эта копия ещё доступна.\n3. «КнигаАудио» убрана из списка источников и общего поиска. Скачанные книги и позиции сохраняются.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2n",
+  "tag_name": "v3.0.2o",
+  "name": "Аудиокниги Nova 3.0.2o",
+  "body": "1. В альбомной библиотеке планшета снова компактные карточки. Обложка слева, название и прогресс рядом.\n2. В альбомной библиотеке телефона количество карточек подбирается по ширине экрана.\n3. Подпись настройки «Две карточки в ряд» уточняет, что в библиотеке она относится к вертикальному виду.\n4. На ТВ и планшете в альбомной библиотеке переход между полками теперь рядом с кнопкой «Библиотека». «Добавить книгу» остаётся в выбранном разделе.\n5. На телефоне выбор полки перенесён к кнопке «Библиотека» под текущей книгой. При прокрутке этот ряд остаётся на экране.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2o",
   "assets": [
     {
-      "name": "AudiobooksNova-3.0.2n.apk",
-      "size": 15597481,
-      "digest": "sha256:11b887501c8b2c61c9e9e9bf9cee61e6104ad3f9a6b6e77ae21b40e76793d906",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2n/AudiobooksNova-3.0.2n.apk"
+      "name": "AudiobooksNova-3.0.2o.apk",
+      "size": 15613865,
+      "digest": "sha256:5c1c38afd4a335d857980468292cd286bd5ab0075533e8752737313501e5abe8",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2o/AudiobooksNova-3.0.2o.apk"
     }
   ]
 }
