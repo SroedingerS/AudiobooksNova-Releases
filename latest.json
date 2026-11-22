@@ -1,14 +1,14 @@
 {
-  "tag_name": "v3.0.2q",
-  "name": "Аудиокниги Nova 3.0.2q",
-  "body": "1. Если папка сторонних книг временно недоступна, результат последнего чтения сохраняется. Повторить проверку можно в разделе сторонних книг или в настройках.\n2. Чтобы перенести книги или станции, откройте свою полку, удерживайте карточку, нажмите «Выбрать», отметьте остальные, нажмите «Перенести» и выберите другую полку.\n3. Обычные стрелки плеера переключают станции по порядку полки. Книги между ними пропускаются. Чтобы выбрать эфир по названию, нажмите «Станции».",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2q",
+  "tag_name": "v3.0.2r",
+  "name": "Аудиокниги Nova 3.0.2r",
+  "body": "1. В подборке RadioPotok обычные стрелки плеера переключают станции и во время прямого эфира.\n2. При обновлении подборки RadioPotok каждая станция получает свою главу. Запасные адреса больше не дублируют станции.\n3. Таймер запоминает «До конца главы». После выключения или срабатывания этот выбор остаётся в настройках таймера.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2r",
   "assets": [
     {
-      "name": "AudiobooksNova-3.0.2q.apk",
+      "name": "AudiobooksNova-3.0.2r.apk",
       "size": 15618030,
-      "digest": "sha256:79f7126175c53b4378ce572e9a2a1ef61e834ea0b083647d1cc09b884fde8b06",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2q/AudiobooksNova-3.0.2q.apk"
+      "digest": "sha256:2608f3461321249b5c236b6f549b72a93fb9f6426976803fbc18cca5dacaaecc",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2r/AudiobooksNova-3.0.2r.apk"
     }
   ]
 }
