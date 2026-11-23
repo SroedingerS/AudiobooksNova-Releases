@@ -1,14 +1,14 @@
 {
-  "tag_name": "v3.0.2r",
-  "name": "Аудиокниги Nova 3.0.2r",
-  "body": "1. В подборке RadioPotok обычные стрелки плеера переключают станции и во время прямого эфира.\n2. При обновлении подборки RadioPotok каждая станция получает свою главу. Запасные адреса больше не дублируют станции.\n3. Таймер запоминает «До конца главы». После выключения или срабатывания этот выбор остаётся в настройках таймера.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2r",
+  "tag_name": "v3.0.2s",
+  "name": "Аудиокниги Nova 3.0.2s",
+  "body": "1. Если Android выгрузил Nova во время паузы, кнопка воспроизведения на гарнитуре снова открывает сохранённую главу с прежней позиции. Телефон можно оставить в кармане.\n2. При смене обложки книги Nova теперь читает данные в фоне. Это устраняет одну из причин зависания экрана книги.\n3. При открытии плеера настройки его кнопок тоже загружаются в фоне. Экран больше не ждёт окончания этого чтения.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2s",
   "assets": [
     {
-      "name": "AudiobooksNova-3.0.2r.apk",
-      "size": 15618030,
-      "digest": "sha256:2608f3461321249b5c236b6f549b72a93fb9f6426976803fbc18cca5dacaaecc",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2r/AudiobooksNova-3.0.2r.apk"
+      "name": "AudiobooksNova-3.0.2s.apk",
+      "size": 15634414,
+      "digest": "sha256:918d4e1d784221f80973fefa81133fd1ff73fec5946e0b37a32d3758b7cf8af1",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2s/AudiobooksNova-3.0.2s.apk"
     }
   ]
 }
