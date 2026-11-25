@@ -1,14 +1,14 @@
 {
-  "tag_name": "v3.0.2u",
-  "name": "Аудиокниги Nova 3.0.2u",
-  "body": "1. В Nova теперь можно подключать свои сайты с аудиокнигами. Откройте «Библиотека» → «Личные источники» → «Добавить сайт». Вставьте адрес каталога или ленты, затем нажмите «Проверить» и «Добавить».\n2. Нажмите на название сайта, чтобы перейти к его каталогу. Книги открываются в обычной карточке, а главы запускаются в плеере Nova. Поиск ищет по названиям и авторам на загруженных страницах.\n3. Можно хранить больше десяти сайтов и включать до десяти одновременно. Чтобы включить другой сайт при заполненном списке, временно выключите один из активных. Подойдут сайты, которые публикуют открытые ссылки на аудио.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2u",
+  "tag_name": "v3.0.2v",
+  "name": "Аудиокниги Nova 3.0.2v",
+  "body": "1. Nova проверяет, включил ли Android усиление тихих записей. Если устройство отклонило команду, Nova попробует применить эффект при следующем запуске или возобновлении воспроизведения.\n2. В журнале звука теперь видно, принял ли Android включение усиления или эффект оказался недоступен. Это поможет разобраться в случаях, когда громкость меняется во время прослушивания.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2v",
   "assets": [
     {
-      "name": "AudiobooksNova-3.0.2u.apk",
-      "size": 15650798,
-      "digest": "sha256:50272716267112b14fee7763b06b79ebd7b28b900406741917f5d3af75e53617",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2u/AudiobooksNova-3.0.2u.apk"
+      "name": "AudiobooksNova-3.0.2v.apk",
+      "size": 15667182,
+      "digest": "sha256:774a2f6a389c55994da47c1cfa1a67e798f69843e3b7ae8b436cc80db8d1c0c7",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2v/AudiobooksNova-3.0.2v.apk"
     }
   ]
 }
