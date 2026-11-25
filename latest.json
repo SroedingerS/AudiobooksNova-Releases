@@ -1,14 +1,14 @@
 {
-  "tag_name": "v3.0.2v",
-  "name": "Аудиокниги Nova 3.0.2v",
-  "body": "1. Nova проверяет, включил ли Android усиление тихих записей. Если устройство отклонило команду, Nova попробует применить эффект при следующем запуске или возобновлении воспроизведения.\n2. В журнале звука теперь видно, принял ли Android включение усиления или эффект оказался недоступен. Это поможет разобраться в случаях, когда громкость меняется во время прослушивания.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2v",
+  "tag_name": "v3.0.2w",
+  "name": "Аудиокниги Nova 3.0.2w",
+  "body": "1. Загрузки и сторонние книги теперь можно хранить в одной папке. Завершённая загрузка появится в списке сторонних книг с прежней позицией и без второй карточки.\n2. В карточке книги с циклом появилось действие «Отметить цикл прочитанным». Можно выбрать нужные книги и отменить отметку сразу после применения.\n3. В альбомном плеере сообщение о восстановлении звука больше не сжимает нижние кнопки.\n4. Команды с гарнитуры и из системной шторки теперь проходят через ту же обработку пуска и паузы, что и кнопки плеера.\n5. Поправили метку ознакомительного фрагмента на ИзиБуке. Если источник даёт ссылку только на страницу фрагмента, Nova сообщает об этом при скачивании.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2w",
   "assets": [
     {
-      "name": "AudiobooksNova-3.0.2v.apk",
+      "name": "AudiobooksNova-3.0.2w.apk",
       "size": 15667182,
-      "digest": "sha256:774a2f6a389c55994da47c1cfa1a67e798f69843e3b7ae8b436cc80db8d1c0c7",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2v/AudiobooksNova-3.0.2v.apk"
+      "digest": "sha256:5f54b6b0436815be4213a1a3d0f4da7d5e5fb5114914e17f676b146a9c302ac3",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2w/AudiobooksNova-3.0.2w.apk"
     }
   ]
 }
