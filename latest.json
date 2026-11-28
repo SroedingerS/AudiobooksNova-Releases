@@ -1,14 +1,14 @@
 {
-  "tag_name": "v3.0.2y",
-  "name": "Аудиокниги Nova 3.0.2y",
-  "body": "1. В поиске можно выбрать жанр и нажать «Найти», оставив поле запроса пустым. Рядом видно, ищет Nova по выбранному серверу или по всем.\n2. В окне обновления появилась кнопка «Что изменилось с моей версии». Она показывает доступные записи до предлагаемой версии.\n3. В компактной панели читалки главы аудиокниги открываются из той же строки, что и управление звуком. В режиме «Постранично» можно включить «Листать одной рукой» и касаться верхней или нижней части текста.\n4. При открытии книги по ссылке Nova объясняет, когда ссылка ведёт на служебную страницу, доступен только фрагмент или не найден список глав.\n5. На Android TV пульт перебирает пункты меню книги в том порядке, в котором они видны на экране.",
-  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2y",
+  "tag_name": "v3.0.2z",
+  "name": "Аудиокниги Nova 3.0.2z",
+  "body": "1. В поиске по онлайн-книгам совпадения по названию показываются первыми. Похожие книги появляются после них.\n2. В карточках отображаются жанры и полные описания, если источник их передаёт. При наличии русского описания Nova выбирает его.\n3. Если в описании указаны автор или чтец, Nova показывает их в соответствующих полях.",
+  "html_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/tag/v3.0.2z",
   "assets": [
     {
-      "name": "AudiobooksNova-3.0.2y.apk",
-      "size": 15683958,
-      "digest": "sha256:79aa26dae7e663f88349c4caa51664781ccf2088c891e0d4b068cd62d0498e97",
-      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2y/AudiobooksNova-3.0.2y.apk"
+      "name": "AudiobooksNova-3.0.2z.apk",
+      "size": 15700342,
+      "digest": "sha256:2b47372b89bb630ada0a895938b64c856126edaaa930033e76b1c760fa16c9a4",
+      "browser_download_url": "https://github.com/SroedingerS/AudiobooksNova-Releases/releases/download/v3.0.2z/AudiobooksNova-3.0.2z.apk"
     }
   ]
 }
